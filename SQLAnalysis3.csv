@@ -1,0 +1,20 @@
+sex,ca,thal,count(target)
+Female,"No Major Arteries","Abnormal Blood Flow",8
+Female,"No Major Arteries","Normal Blood Flow",78
+Female,"One Major Arteries","Abnormal Blood Flow",4
+Female,"One Major Arteries","Normal Blood Flow",29
+Female,"Three Major Arteries","Abnormal Blood Flow",8
+Female,"Two Major Arteries","Abnormal Blood Flow",8
+Female,"Two Major Arteries","Normal Blood Flow",10
+Male,"Four Major Arteries or More","Normal Blood Flow",11
+Male,"No Major Arteries","Abnormal Blood Flow",41
+Male,"No Major Arteries","Fixed Defect",8
+Male,"No Major Arteries","Normal Blood Flow",123
+Male,"One Major Arteries","Abnormal Blood Flow",29
+Male,"One Major Arteries","Normal Blood Flow",22
+Male,"Three Major Arteries","Abnormal Blood Flow",14
+Male,"Three Major Arteries","Fixed Defect",3
+Male,"Three Major Arteries","Normal Blood Flow",6
+Male,"Two Major Arteries","Abnormal Blood Flow",23
+Male,"Two Major Arteries","Fixed Defect",6
+Male,"Two Major Arteries","Normal Blood Flow",3

@@ -1,0 +1,1019 @@
+age,sex,cp,trestbps,chol,fbs,restecg,thalach,exang,oldpeak,slope,ca,thal,target
+52,Male,Typical Angina,125,212,No,1,168,No pain,1,2,Two Major Arteries,Abnormal Blood Flow,No
+53,Male,Typical Angina,140,203,Yes,0,155,Pain,3.1,0,No Major Arteries,Abnormal Blood Flow,No
+70,Male,Typical Angina,145,174,No,1,125,Pain,2.6,0,No Major Arteries,Abnormal Blood Flow,No
+61,Male,Typical Angina,148,203,No,1,161,No pain,0,2,One Major Arteries,Abnormal Blood Flow,No
+62,Female,Typical Angina,138,294,Yes,1,106,No pain,1.9,1,Three Major Arteries,Normal Blood Flow,No
+58,Female,Typical Angina,100,248,No,0,122,No pain,1,1,No Major Arteries,Normal Blood Flow,Yes
+58,Male,Typical Angina,114,318,No,2,140,No pain,4.4,0,Three Major Arteries,Fixed Defect,No
+55,Male,Typical Angina,160,289,No,0,145,Pain,0.8,1,One Major Arteries,Abnormal Blood Flow,No
+46,Male,Typical Angina,120,249,No,0,144,No pain,0.8,2,No Major Arteries,Abnormal Blood Flow,No
+54,Male,Typical Angina,122,286,No,0,116,Pain,3.2,1,Two Major Arteries,Normal Blood Flow,No
+71,Female,Typical Angina,112,149,No,1,125,No pain,1.6,1,No Major Arteries,Normal Blood Flow,Yes
+43,Female,Typical Angina,132,341,Yes,0,136,Pain,3,1,No Major Arteries,Abnormal Blood Flow,No
+34,Female,Atypical Angina,118,210,No,1,192,No pain,0.7,2,No Major Arteries,Normal Blood Flow,Yes
+51,Male,Typical Angina,140,298,No,1,122,Pain,4.2,1,Three Major Arteries,Abnormal Blood Flow,No
+34,Female,Atypical Angina,118,210,No,1,192,No pain,0.7,2,No Major Arteries,Normal Blood Flow,Yes
+51,Female,Non-Anginal Pain,140,308,No,0,142,No pain,1.5,2,One Major Arteries,Normal Blood Flow,Yes
+54,Male,Typical Angina,124,266,No,0,109,Pain,2.2,1,One Major Arteries,Abnormal Blood Flow,No
+50,Female,Atypical Angina,120,244,No,1,162,No pain,1.1,2,No Major Arteries,Normal Blood Flow,Yes
+58,Male,Non-Anginal Pain,140,211,Yes,0,165,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+60,Male,Non-Anginal Pain,140,185,No,0,155,No pain,3,1,No Major Arteries,Normal Blood Flow,No
+67,Female,Typical Angina,106,223,No,1,142,No pain,0.3,2,Two Major Arteries,Normal Blood Flow,Yes
+45,Male,Typical Angina,104,208,No,0,148,Pain,3,1,No Major Arteries,Normal Blood Flow,Yes
+63,Female,Non-Anginal Pain,135,252,No,0,172,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+42,Female,Non-Anginal Pain,120,209,No,1,173,No pain,0,1,No Major Arteries,Normal Blood Flow,Yes
+61,Female,Typical Angina,145,307,No,0,146,Pain,1,1,No Major Arteries,Abnormal Blood Flow,No
+44,Male,Non-Anginal Pain,130,233,No,1,179,Pain,0.4,2,No Major Arteries,Normal Blood Flow,Yes
+58,Female,Atypical Angina,136,319,Yes,0,152,No pain,0,2,Two Major Arteries,Normal Blood Flow,No
+56,Male,Non-Anginal Pain,130,256,Yes,0,142,Pain,0.6,1,One Major Arteries,Fixed Defect,No
+55,Female,Typical Angina,180,327,No,2,117,Pain,3.4,1,No Major Arteries,Normal Blood Flow,No
+44,Male,Typical Angina,120,169,No,1,144,Pain,2.8,0,No Major Arteries,Fixed Defect,No
+50,Female,Atypical Angina,120,244,No,1,162,No pain,1.1,2,No Major Arteries,Normal Blood Flow,Yes
+57,Male,Typical Angina,130,131,No,1,115,Pain,1.2,1,One Major Arteries,Abnormal Blood Flow,No
+70,Male,Non-Anginal Pain,160,269,No,1,112,Pain,2.9,1,One Major Arteries,Abnormal Blood Flow,No
+50,Male,Non-Anginal Pain,129,196,No,1,163,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+46,Male,Non-Anginal Pain,150,231,No,1,147,No pain,3.6,1,No Major Arteries,Normal Blood Flow,No
+51,Male,Asymptomatic,125,213,No,0,125,Pain,1.4,2,One Major Arteries,Normal Blood Flow,Yes
+59,Male,Typical Angina,138,271,No,0,182,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+64,Male,Typical Angina,128,263,No,1,105,Pain,0.2,1,One Major Arteries,Abnormal Blood Flow,Yes
+57,Male,Non-Anginal Pain,128,229,No,0,150,No pain,0.4,1,One Major Arteries,Abnormal Blood Flow,No
+65,Female,Non-Anginal Pain,160,360,No,0,151,No pain,0.8,2,No Major Arteries,Normal Blood Flow,Yes
+54,Male,Non-Anginal Pain,120,258,No,0,147,No pain,0.4,1,No Major Arteries,Abnormal Blood Flow,Yes
+61,Female,Typical Angina,130,330,No,0,169,No pain,0,2,No Major Arteries,Normal Blood Flow,No
+46,Male,Typical Angina,120,249,No,0,144,No pain,0.8,2,No Major Arteries,Abnormal Blood Flow,No
+55,Female,Atypical Angina,132,342,No,1,166,No pain,1.2,2,No Major Arteries,Normal Blood Flow,Yes
+42,Male,Typical Angina,140,226,No,1,178,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+41,Male,Atypical Angina,135,203,No,1,132,No pain,0,1,No Major Arteries,Fixed Defect,Yes
+66,Female,Typical Angina,178,228,Yes,1,165,Pain,1,1,Two Major Arteries,Abnormal Blood Flow,No
+66,Female,Non-Anginal Pain,146,278,No,0,152,No pain,0,1,One Major Arteries,Normal Blood Flow,Yes
+60,Male,Typical Angina,117,230,Yes,1,160,Pain,1.4,2,Two Major Arteries,Abnormal Blood Flow,No
+58,Female,Asymptomatic,150,283,Yes,0,162,No pain,1,2,No Major Arteries,Normal Blood Flow,Yes
+57,Female,Typical Angina,140,241,No,1,123,Pain,0.2,1,No Major Arteries,Abnormal Blood Flow,No
+38,Male,Non-Anginal Pain,138,175,No,1,173,No pain,0,2,Four Major Arteries or More,Normal Blood Flow,Yes
+49,Male,Non-Anginal Pain,120,188,No,1,139,No pain,2,1,Three Major Arteries,Abnormal Blood Flow,No
+55,Male,Typical Angina,140,217,No,1,111,Pain,5.6,0,No Major Arteries,Abnormal Blood Flow,No
+55,Male,Typical Angina,140,217,No,1,111,Pain,5.6,0,No Major Arteries,Abnormal Blood Flow,No
+56,Male,Asymptomatic,120,193,No,0,162,No pain,1.9,1,No Major Arteries,Abnormal Blood Flow,Yes
+48,Male,Atypical Angina,130,245,No,0,180,No pain,0.2,1,No Major Arteries,Normal Blood Flow,Yes
+67,Male,Non-Anginal Pain,152,212,No,0,150,No pain,0.8,1,No Major Arteries,Abnormal Blood Flow,No
+57,Male,Atypical Angina,154,232,No,0,164,No pain,0,2,One Major Arteries,Normal Blood Flow,No
+29,Male,Atypical Angina,130,204,No,0,202,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+66,Female,Non-Anginal Pain,146,278,No,0,152,No pain,0,1,One Major Arteries,Normal Blood Flow,Yes
+67,Male,Typical Angina,100,299,No,0,125,Pain,0.9,1,Two Major Arteries,Normal Blood Flow,No
+59,Male,Non-Anginal Pain,150,212,Yes,1,157,No pain,1.6,2,No Major Arteries,Normal Blood Flow,Yes
+29,Male,Atypical Angina,130,204,No,0,202,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+59,Male,Asymptomatic,170,288,No,0,159,No pain,0.2,1,No Major Arteries,Abnormal Blood Flow,No
+53,Male,Non-Anginal Pain,130,197,Yes,0,152,No pain,1.2,0,No Major Arteries,Normal Blood Flow,Yes
+42,Male,Typical Angina,136,315,No,1,125,Pain,1.8,1,No Major Arteries,Fixed Defect,No
+37,Female,Non-Anginal Pain,120,215,No,1,170,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+62,Female,Typical Angina,160,164,No,0,145,No pain,6.2,0,Three Major Arteries,Abnormal Blood Flow,No
+59,Male,Typical Angina,170,326,No,0,140,Pain,3.4,0,No Major Arteries,Abnormal Blood Flow,No
+61,Male,Typical Angina,140,207,No,0,138,Pain,1.9,2,One Major Arteries,Abnormal Blood Flow,No
+56,Male,Typical Angina,125,249,Yes,0,144,Pain,1.2,1,One Major Arteries,Normal Blood Flow,No
+59,Male,Typical Angina,140,177,No,1,162,Pain,0,2,One Major Arteries,Abnormal Blood Flow,No
+48,Male,Typical Angina,130,256,Yes,0,150,Pain,0,2,Two Major Arteries,Abnormal Blood Flow,No
+47,Male,Non-Anginal Pain,138,257,No,0,156,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+48,Male,Non-Anginal Pain,124,255,Yes,1,175,No pain,0,2,Two Major Arteries,Normal Blood Flow,Yes
+63,Male,Typical Angina,140,187,No,0,144,Pain,4,2,Two Major Arteries,Abnormal Blood Flow,No
+52,Male,Atypical Angina,134,201,No,1,158,No pain,0.8,2,One Major Arteries,Normal Blood Flow,Yes
+52,Male,Atypical Angina,134,201,No,1,158,No pain,0.8,2,One Major Arteries,Normal Blood Flow,Yes
+50,Male,Non-Anginal Pain,140,233,No,1,163,No pain,0.6,1,One Major Arteries,Abnormal Blood Flow,No
+49,Male,Non-Anginal Pain,118,149,No,0,126,No pain,0.8,2,Three Major Arteries,Normal Blood Flow,No
+46,Male,Non-Anginal Pain,150,231,No,1,147,No pain,3.6,1,No Major Arteries,Normal Blood Flow,No
+38,Male,Non-Anginal Pain,138,175,No,1,173,No pain,0,2,Four Major Arteries or More,Normal Blood Flow,Yes
+37,Female,Non-Anginal Pain,120,215,No,1,170,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+44,Male,Atypical Angina,120,220,No,1,170,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+58,Male,Non-Anginal Pain,140,211,Yes,0,165,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+59,Female,Typical Angina,174,249,No,1,143,Pain,0,1,No Major Arteries,Normal Blood Flow,No
+62,Female,Typical Angina,140,268,No,0,160,No pain,3.6,0,Two Major Arteries,Normal Blood Flow,No
+68,Male,Typical Angina,144,193,Yes,1,141,No pain,3.4,1,Two Major Arteries,Abnormal Blood Flow,No
+54,Female,Non-Anginal Pain,108,267,No,0,167,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+62,Female,Typical Angina,124,209,No,1,163,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+63,Male,Typical Angina,140,187,No,0,144,Pain,4,2,Two Major Arteries,Abnormal Blood Flow,No
+44,Male,Typical Angina,120,169,No,1,144,Pain,2.8,0,No Major Arteries,Fixed Defect,No
+62,Male,Atypical Angina,128,208,Yes,0,140,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+45,Female,Typical Angina,138,236,No,0,152,Pain,0.2,1,No Major Arteries,Normal Blood Flow,Yes
+57,Female,Typical Angina,128,303,No,0,159,No pain,0,2,One Major Arteries,Normal Blood Flow,Yes
+53,Male,Typical Angina,123,282,No,1,95,Pain,2,1,Two Major Arteries,Abnormal Blood Flow,No
+65,Male,Typical Angina,110,248,No,0,158,No pain,0.6,2,Two Major Arteries,Fixed Defect,No
+76,Female,Non-Anginal Pain,140,197,No,2,116,No pain,1.1,1,No Major Arteries,Normal Blood Flow,Yes
+43,Female,Non-Anginal Pain,122,213,No,1,165,No pain,0.2,1,No Major Arteries,Normal Blood Flow,Yes
+57,Male,Non-Anginal Pain,150,126,Yes,1,173,No pain,0.2,2,One Major Arteries,Abnormal Blood Flow,Yes
+54,Male,Atypical Angina,108,309,No,1,156,No pain,0,2,No Major Arteries,Abnormal Blood Flow,Yes
+47,Male,Non-Anginal Pain,138,257,No,0,156,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+52,Male,Asymptomatic,118,186,No,0,190,No pain,0,1,No Major Arteries,Fixed Defect,Yes
+47,Male,Typical Angina,110,275,No,0,118,Pain,1,1,One Major Arteries,Normal Blood Flow,No
+51,Male,Typical Angina,140,299,No,1,173,Pain,1.6,2,No Major Arteries,Abnormal Blood Flow,No
+62,Male,Atypical Angina,120,281,No,0,103,No pain,1.4,1,One Major Arteries,Abnormal Blood Flow,No
+40,Male,Typical Angina,152,223,No,1,181,No pain,0,2,No Major Arteries,Abnormal Blood Flow,No
+54,Male,Typical Angina,110,206,No,0,108,Pain,0,1,One Major Arteries,Normal Blood Flow,No
+44,Male,Typical Angina,110,197,No,0,177,No pain,0,2,One Major Arteries,Normal Blood Flow,No
+53,Male,Typical Angina,142,226,No,0,111,Pain,0,2,No Major Arteries,Abnormal Blood Flow,Yes
+48,Male,Typical Angina,130,256,Yes,0,150,Pain,0,2,Two Major Arteries,Abnormal Blood Flow,No
+57,Male,Typical Angina,110,335,No,1,143,Pain,3,1,One Major Arteries,Abnormal Blood Flow,No
+59,Male,Non-Anginal Pain,126,218,Yes,1,134,No pain,2.2,1,One Major Arteries,Fixed Defect,No
+61,Female,Typical Angina,145,307,No,0,146,Pain,1,1,No Major Arteries,Abnormal Blood Flow,No
+63,Male,Typical Angina,130,254,No,0,147,No pain,1.4,1,One Major Arteries,Abnormal Blood Flow,No
+43,Male,Typical Angina,120,177,No,0,120,Pain,2.5,1,No Major Arteries,Abnormal Blood Flow,No
+29,Male,Atypical Angina,130,204,No,0,202,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+42,Male,Atypical Angina,120,295,No,1,162,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+54,Male,Atypical Angina,108,309,No,1,156,No pain,0,2,No Major Arteries,Abnormal Blood Flow,Yes
+44,Male,Typical Angina,120,169,No,1,144,Pain,2.8,0,No Major Arteries,Fixed Defect,No
+60,Male,Typical Angina,145,282,No,0,142,Pain,2.8,1,Two Major Arteries,Abnormal Blood Flow,No
+65,Female,Non-Anginal Pain,140,417,Yes,0,157,No pain,0.8,2,One Major Arteries,Normal Blood Flow,Yes
+61,Male,Typical Angina,120,260,No,1,140,Pain,3.6,1,One Major Arteries,Abnormal Blood Flow,No
+60,Female,Asymptomatic,150,240,No,1,171,No pain,0.9,2,No Major Arteries,Normal Blood Flow,Yes
+66,Male,Typical Angina,120,302,No,0,151,No pain,0.4,1,No Major Arteries,Normal Blood Flow,Yes
+53,Male,Non-Anginal Pain,130,197,Yes,0,152,No pain,1.2,0,No Major Arteries,Normal Blood Flow,Yes
+52,Male,Non-Anginal Pain,138,223,No,1,169,No pain,0,2,Four Major Arteries or More,Normal Blood Flow,Yes
+57,Male,Typical Angina,140,192,No,1,148,No pain,0.4,1,No Major Arteries,Fixed Defect,Yes
+60,Female,Asymptomatic,150,240,No,1,171,No pain,0.9,2,No Major Arteries,Normal Blood Flow,Yes
+51,Female,Non-Anginal Pain,130,256,No,0,149,No pain,0.5,2,No Major Arteries,Normal Blood Flow,Yes
+41,Male,Atypical Angina,135,203,No,1,132,No pain,0,1,No Major Arteries,Fixed Defect,Yes
+50,Male,Non-Anginal Pain,129,196,No,1,163,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+54,Male,Atypical Angina,108,309,No,1,156,No pain,0,2,No Major Arteries,Abnormal Blood Flow,Yes
+58,Female,Typical Angina,170,225,Yes,0,146,Pain,2.8,1,Two Major Arteries,Fixed Defect,No
+55,Female,Atypical Angina,132,342,No,1,166,No pain,1.2,2,No Major Arteries,Normal Blood Flow,Yes
+64,Female,Typical Angina,180,325,No,1,154,Pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+47,Male,Non-Anginal Pain,138,257,No,0,156,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+41,Male,Atypical Angina,110,235,No,1,153,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+57,Male,Typical Angina,152,274,No,1,88,Pain,1.2,1,One Major Arteries,Abnormal Blood Flow,No
+63,Female,Typical Angina,124,197,No,1,136,Pain,0,1,No Major Arteries,Normal Blood Flow,No
+61,Male,Asymptomatic,134,234,No,1,145,No pain,2.6,1,Two Major Arteries,Normal Blood Flow,No
+34,Male,Asymptomatic,118,182,No,0,174,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+47,Male,Typical Angina,112,204,No,1,143,No pain,0.1,2,No Major Arteries,Normal Blood Flow,Yes
+40,Male,Typical Angina,110,167,No,0,114,Pain,2,1,No Major Arteries,Abnormal Blood Flow,No
+51,Female,Non-Anginal Pain,120,295,No,0,157,No pain,0.6,2,No Major Arteries,Normal Blood Flow,Yes
+41,Male,Typical Angina,110,172,No,0,158,No pain,0,2,No Major Arteries,Abnormal Blood Flow,No
+52,Male,Asymptomatic,152,298,Yes,1,178,No pain,1.2,1,No Major Arteries,Abnormal Blood Flow,Yes
+39,Male,Non-Anginal Pain,140,321,No,0,182,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+58,Male,Typical Angina,114,318,No,2,140,No pain,4.4,0,Three Major Arteries,Fixed Defect,No
+54,Male,Atypical Angina,192,283,No,0,195,No pain,0,2,One Major Arteries,Abnormal Blood Flow,No
+58,Male,Typical Angina,125,300,No,0,171,No pain,0,2,Two Major Arteries,Abnormal Blood Flow,No
+54,Male,Non-Anginal Pain,120,258,No,0,147,No pain,0.4,1,No Major Arteries,Abnormal Blood Flow,Yes
+63,Male,Typical Angina,130,330,Yes,0,132,Pain,1.8,2,Three Major Arteries,Abnormal Blood Flow,No
+54,Male,Atypical Angina,108,309,No,1,156,No pain,0,2,No Major Arteries,Abnormal Blood Flow,Yes
+40,Male,Asymptomatic,140,199,No,1,178,Pain,1.4,2,No Major Arteries,Abnormal Blood Flow,Yes
+54,Male,Non-Anginal Pain,120,258,No,0,147,No pain,0.4,1,No Major Arteries,Abnormal Blood Flow,Yes
+67,Female,Non-Anginal Pain,115,564,No,0,160,No pain,1.6,1,No Major Arteries,Abnormal Blood Flow,Yes
+41,Male,Atypical Angina,120,157,No,1,182,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+77,Male,Typical Angina,125,304,No,0,162,Pain,0,2,Three Major Arteries,Normal Blood Flow,No
+51,Male,Non-Anginal Pain,100,222,No,1,143,Pain,1.2,1,No Major Arteries,Normal Blood Flow,Yes
+77,Male,Typical Angina,125,304,No,0,162,Pain,0,2,Three Major Arteries,Normal Blood Flow,No
+48,Male,Typical Angina,124,274,No,0,166,No pain,0.5,1,No Major Arteries,Abnormal Blood Flow,No
+56,Male,Typical Angina,125,249,Yes,0,144,Pain,1.2,1,One Major Arteries,Normal Blood Flow,No
+59,Male,Typical Angina,170,326,No,0,140,Pain,3.4,0,No Major Arteries,Abnormal Blood Flow,No
+56,Male,Typical Angina,132,184,No,0,105,Pain,2.1,1,One Major Arteries,Fixed Defect,No
+57,Female,Typical Angina,120,354,No,1,163,Pain,0.6,2,No Major Arteries,Normal Blood Flow,Yes
+43,Male,Non-Anginal Pain,130,315,No,1,162,No pain,1.9,2,One Major Arteries,Normal Blood Flow,Yes
+45,Female,Atypical Angina,112,160,No,1,138,No pain,0,1,No Major Arteries,Normal Blood Flow,Yes
+43,Male,Typical Angina,150,247,No,1,171,No pain,1.5,2,No Major Arteries,Normal Blood Flow,Yes
+56,Male,Typical Angina,130,283,Yes,0,103,Pain,1.6,0,No Major Arteries,Abnormal Blood Flow,No
+56,Male,Atypical Angina,120,240,No,1,169,No pain,0,0,No Major Arteries,Normal Blood Flow,Yes
+39,Female,Non-Anginal Pain,94,199,No,1,179,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+54,Male,Typical Angina,110,239,No,1,126,Pain,2.8,1,One Major Arteries,Abnormal Blood Flow,No
+56,Female,Typical Angina,200,288,Yes,0,133,Pain,4,0,Two Major Arteries,Abnormal Blood Flow,No
+56,Male,Typical Angina,130,283,Yes,0,103,Pain,1.6,0,No Major Arteries,Abnormal Blood Flow,No
+64,Male,Typical Angina,120,246,No,0,96,Pain,2.2,0,One Major Arteries,Normal Blood Flow,No
+44,Male,Typical Angina,110,197,No,0,177,No pain,0,2,One Major Arteries,Normal Blood Flow,No
+56,Female,Typical Angina,134,409,No,0,150,Pain,1.9,1,Two Major Arteries,Abnormal Blood Flow,No
+63,Male,Typical Angina,140,187,No,0,144,Pain,4,2,Two Major Arteries,Abnormal Blood Flow,No
+64,Male,Asymptomatic,110,211,No,0,144,Pain,1.8,1,No Major Arteries,Normal Blood Flow,Yes
+60,Male,Typical Angina,140,293,No,0,170,No pain,1.2,1,Two Major Arteries,Abnormal Blood Flow,No
+42,Male,Non-Anginal Pain,130,180,No,1,150,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+45,Male,Atypical Angina,128,308,No,0,170,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+57,Male,Typical Angina,165,289,Yes,0,124,No pain,1,1,Three Major Arteries,Abnormal Blood Flow,No
+40,Male,Typical Angina,110,167,No,0,114,Pain,2,1,No Major Arteries,Abnormal Blood Flow,No
+56,Male,Typical Angina,125,249,Yes,0,144,Pain,1.2,1,One Major Arteries,Normal Blood Flow,No
+63,Male,Typical Angina,130,254,No,0,147,No pain,1.4,1,One Major Arteries,Abnormal Blood Flow,No
+64,Male,Non-Anginal Pain,125,309,No,1,131,Pain,1.8,1,No Major Arteries,Abnormal Blood Flow,No
+41,Male,Non-Anginal Pain,112,250,No,1,179,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+56,Male,Atypical Angina,130,221,No,0,163,No pain,0,2,No Major Arteries,Abnormal Blood Flow,Yes
+67,Female,Non-Anginal Pain,115,564,No,0,160,No pain,1.6,1,No Major Arteries,Abnormal Blood Flow,Yes
+69,Male,Asymptomatic,160,234,Yes,0,131,No pain,0.1,1,One Major Arteries,Normal Blood Flow,Yes
+67,Male,Typical Angina,160,286,No,0,108,Pain,1.5,1,Three Major Arteries,Normal Blood Flow,No
+59,Male,Non-Anginal Pain,150,212,Yes,1,157,No pain,1.6,2,No Major Arteries,Normal Blood Flow,Yes
+58,Male,Typical Angina,100,234,No,1,156,No pain,0.1,2,One Major Arteries,Abnormal Blood Flow,No
+45,Male,Typical Angina,115,260,No,0,185,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+60,Female,Non-Anginal Pain,102,318,No,1,160,No pain,0,2,One Major Arteries,Normal Blood Flow,Yes
+50,Male,Typical Angina,144,200,No,0,126,Pain,0.9,1,No Major Arteries,Abnormal Blood Flow,No
+62,Female,Typical Angina,124,209,No,1,163,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+34,Male,Asymptomatic,118,182,No,0,174,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+52,Male,Asymptomatic,152,298,Yes,1,178,No pain,1.2,1,No Major Arteries,Abnormal Blood Flow,Yes
+64,Male,Asymptomatic,170,227,No,0,155,No pain,0.6,1,No Major Arteries,Abnormal Blood Flow,Yes
+66,Female,Non-Anginal Pain,146,278,No,0,152,No pain,0,1,One Major Arteries,Normal Blood Flow,Yes
+42,Male,Asymptomatic,148,244,No,0,178,No pain,0.8,2,Two Major Arteries,Normal Blood Flow,Yes
+59,Male,Non-Anginal Pain,126,218,Yes,1,134,No pain,2.2,1,One Major Arteries,Fixed Defect,No
+41,Male,Non-Anginal Pain,112,250,No,1,179,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+38,Male,Non-Anginal Pain,138,175,No,1,173,No pain,0,2,Four Major Arteries or More,Normal Blood Flow,Yes
+62,Male,Atypical Angina,120,281,No,0,103,No pain,1.4,1,One Major Arteries,Abnormal Blood Flow,No
+42,Male,Non-Anginal Pain,120,240,Yes,1,194,No pain,0.8,0,No Major Arteries,Abnormal Blood Flow,Yes
+67,Male,Typical Angina,100,299,No,0,125,Pain,0.9,1,Two Major Arteries,Normal Blood Flow,No
+50,Male,Typical Angina,150,243,No,0,128,No pain,2.6,1,No Major Arteries,Abnormal Blood Flow,No
+43,Male,Non-Anginal Pain,130,315,No,1,162,No pain,1.9,2,One Major Arteries,Normal Blood Flow,Yes
+45,Male,Atypical Angina,128,308,No,0,170,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+49,Male,Atypical Angina,130,266,No,1,171,No pain,0.6,2,No Major Arteries,Normal Blood Flow,Yes
+65,Male,Typical Angina,135,254,No,0,127,No pain,2.8,1,One Major Arteries,Abnormal Blood Flow,No
+41,Male,Atypical Angina,120,157,No,1,182,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+46,Male,Typical Angina,140,311,No,1,120,Pain,1.8,1,Two Major Arteries,Abnormal Blood Flow,No
+54,Male,Typical Angina,122,286,No,0,116,Pain,3.2,1,Two Major Arteries,Normal Blood Flow,No
+57,Female,Atypical Angina,130,236,No,0,174,No pain,0,1,One Major Arteries,Normal Blood Flow,No
+63,Male,Typical Angina,130,254,No,0,147,No pain,1.4,1,One Major Arteries,Abnormal Blood Flow,No
+64,Male,Asymptomatic,110,211,No,0,144,Pain,1.8,1,No Major Arteries,Normal Blood Flow,Yes
+39,Female,Non-Anginal Pain,94,199,No,1,179,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+51,Male,Typical Angina,140,261,No,0,186,Pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+54,Male,Non-Anginal Pain,150,232,No,0,165,No pain,1.6,2,No Major Arteries,Abnormal Blood Flow,Yes
+49,Male,Non-Anginal Pain,118,149,No,0,126,No pain,0.8,2,Three Major Arteries,Normal Blood Flow,No
+44,Female,Non-Anginal Pain,118,242,No,1,149,No pain,0.3,1,One Major Arteries,Normal Blood Flow,Yes
+52,Male,Atypical Angina,128,205,Yes,1,184,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+66,Female,Typical Angina,178,228,Yes,1,165,Pain,1,1,Two Major Arteries,Abnormal Blood Flow,No
+58,Male,Typical Angina,125,300,No,0,171,No pain,0,2,Two Major Arteries,Abnormal Blood Flow,No
+56,Male,Atypical Angina,120,236,No,1,178,No pain,0.8,2,No Major Arteries,Normal Blood Flow,Yes
+60,Male,Typical Angina,125,258,No,0,141,Pain,2.8,1,One Major Arteries,Abnormal Blood Flow,No
+41,Female,Atypical Angina,126,306,No,1,163,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+49,Female,Typical Angina,130,269,No,1,163,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+64,Male,Asymptomatic,170,227,No,0,155,No pain,0.6,1,No Major Arteries,Abnormal Blood Flow,Yes
+49,Male,Non-Anginal Pain,118,149,No,0,126,No pain,0.8,2,Three Major Arteries,Normal Blood Flow,No
+57,Male,Atypical Angina,124,261,No,1,141,No pain,0.3,2,No Major Arteries,Abnormal Blood Flow,No
+60,Male,Typical Angina,117,230,Yes,1,160,Pain,1.4,2,Two Major Arteries,Abnormal Blood Flow,No
+62,Female,Typical Angina,150,244,No,1,154,Pain,1.4,1,No Major Arteries,Normal Blood Flow,No
+54,Female,Atypical Angina,132,288,Yes,0,159,Pain,0,2,One Major Arteries,Normal Blood Flow,Yes
+67,Male,Non-Anginal Pain,152,212,No,0,150,No pain,0.8,1,No Major Arteries,Abnormal Blood Flow,No
+38,Male,Non-Anginal Pain,138,175,No,1,173,No pain,0,2,Four Major Arteries or More,Normal Blood Flow,Yes
+60,Male,Non-Anginal Pain,140,185,No,0,155,No pain,3,1,No Major Arteries,Normal Blood Flow,No
+51,Male,Non-Anginal Pain,125,245,Yes,0,166,No pain,2.4,1,No Major Arteries,Normal Blood Flow,Yes
+44,Male,Atypical Angina,130,219,No,0,188,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+54,Male,Atypical Angina,192,283,No,0,195,No pain,0,2,One Major Arteries,Abnormal Blood Flow,No
+46,Male,Typical Angina,140,311,No,1,120,Pain,1.8,1,Two Major Arteries,Abnormal Blood Flow,No
+39,Female,Non-Anginal Pain,138,220,No,1,152,No pain,0,1,No Major Arteries,Normal Blood Flow,Yes
+42,Male,Non-Anginal Pain,130,180,No,1,150,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+47,Male,Typical Angina,110,275,No,0,118,Pain,1,1,One Major Arteries,Normal Blood Flow,No
+45,Female,Atypical Angina,112,160,No,1,138,No pain,0,1,No Major Arteries,Normal Blood Flow,Yes
+55,Male,Typical Angina,132,353,No,1,132,Pain,1.2,1,One Major Arteries,Abnormal Blood Flow,No
+57,Male,Typical Angina,165,289,Yes,0,124,No pain,1,1,Three Major Arteries,Abnormal Blood Flow,No
+35,Male,Typical Angina,120,198,No,1,130,Pain,1.6,1,No Major Arteries,Abnormal Blood Flow,No
+62,Female,Typical Angina,140,394,No,0,157,No pain,1.2,1,No Major Arteries,Normal Blood Flow,Yes
+35,Female,Typical Angina,138,183,No,1,182,No pain,1.4,2,No Major Arteries,Normal Blood Flow,Yes
+64,Female,Typical Angina,180,325,No,1,154,Pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+38,Male,Asymptomatic,120,231,No,1,182,Pain,3.8,1,No Major Arteries,Abnormal Blood Flow,No
+66,Male,Typical Angina,120,302,No,0,151,No pain,0.4,1,No Major Arteries,Normal Blood Flow,Yes
+44,Male,Non-Anginal Pain,120,226,No,1,169,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+54,Male,Non-Anginal Pain,150,232,No,0,165,No pain,1.6,2,No Major Arteries,Abnormal Blood Flow,Yes
+48,Male,Typical Angina,122,222,No,0,186,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+55,Female,Atypical Angina,132,342,No,1,166,No pain,1.2,2,No Major Arteries,Normal Blood Flow,Yes
+58,Female,Typical Angina,170,225,Yes,0,146,Pain,2.8,1,Two Major Arteries,Fixed Defect,No
+45,Male,Typical Angina,104,208,No,0,148,Pain,3,1,No Major Arteries,Normal Blood Flow,Yes
+53,Male,Typical Angina,123,282,No,1,95,Pain,2,1,Two Major Arteries,Abnormal Blood Flow,No
+67,Male,Typical Angina,120,237,No,1,71,No pain,1,1,No Major Arteries,Normal Blood Flow,No
+58,Male,Non-Anginal Pain,132,224,No,0,173,No pain,3.2,2,Two Major Arteries,Abnormal Blood Flow,No
+71,Female,Non-Anginal Pain,110,265,Yes,0,130,No pain,0,2,One Major Arteries,Normal Blood Flow,Yes
+43,Male,Typical Angina,110,211,No,1,161,No pain,0,2,No Major Arteries,Abnormal Blood Flow,Yes
+44,Male,Atypical Angina,120,263,No,1,173,No pain,0,2,No Major Arteries,Abnormal Blood Flow,Yes
+39,Female,Non-Anginal Pain,138,220,No,1,152,No pain,0,1,No Major Arteries,Normal Blood Flow,Yes
+54,Male,Typical Angina,110,206,No,0,108,Pain,0,1,One Major Arteries,Normal Blood Flow,No
+66,Male,Typical Angina,160,228,No,0,138,No pain,2.3,2,No Major Arteries,Fixed Defect,Yes
+56,Male,Typical Angina,130,283,Yes,0,103,Pain,1.6,0,No Major Arteries,Abnormal Blood Flow,No
+57,Male,Typical Angina,132,207,No,1,168,Pain,0,2,No Major Arteries,Abnormal Blood Flow,Yes
+44,Male,Atypical Angina,130,219,No,0,188,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+55,Male,Typical Angina,160,289,No,0,145,Pain,0.8,1,One Major Arteries,Abnormal Blood Flow,No
+41,Female,Atypical Angina,105,198,No,1,168,No pain,0,2,One Major Arteries,Normal Blood Flow,Yes
+45,Female,Atypical Angina,130,234,No,0,175,No pain,0.6,1,No Major Arteries,Normal Blood Flow,Yes
+35,Male,Atypical Angina,122,192,No,1,174,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+41,Female,Atypical Angina,130,204,No,0,172,No pain,1.4,2,No Major Arteries,Normal Blood Flow,Yes
+64,Male,Asymptomatic,110,211,No,0,144,Pain,1.8,1,No Major Arteries,Normal Blood Flow,Yes
+58,Male,Non-Anginal Pain,132,224,No,0,173,No pain,3.2,2,Two Major Arteries,Abnormal Blood Flow,No
+71,Female,Non-Anginal Pain,110,265,Yes,0,130,No pain,0,2,One Major Arteries,Normal Blood Flow,Yes
+64,Female,Non-Anginal Pain,140,313,No,1,133,No pain,0.2,2,No Major Arteries,Abnormal Blood Flow,Yes
+71,Female,Atypical Angina,160,302,No,1,162,No pain,0.4,2,Two Major Arteries,Normal Blood Flow,Yes
+58,Female,Non-Anginal Pain,120,340,No,1,172,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+40,Male,Typical Angina,152,223,No,1,181,No pain,0,2,No Major Arteries,Abnormal Blood Flow,No
+52,Male,Non-Anginal Pain,138,223,No,1,169,No pain,0,2,Four Major Arteries or More,Normal Blood Flow,Yes
+58,Male,Typical Angina,128,259,No,0,130,Pain,3,1,Two Major Arteries,Abnormal Blood Flow,No
+61,Male,Non-Anginal Pain,150,243,Yes,1,137,Pain,1,1,No Major Arteries,Normal Blood Flow,Yes
+59,Male,Non-Anginal Pain,150,212,Yes,1,157,No pain,1.6,2,No Major Arteries,Normal Blood Flow,Yes
+56,Female,Typical Angina,200,288,Yes,0,133,Pain,4,0,Two Major Arteries,Abnormal Blood Flow,No
+67,Male,Typical Angina,100,299,No,0,125,Pain,0.9,1,Two Major Arteries,Normal Blood Flow,No
+67,Male,Typical Angina,120,237,No,1,71,No pain,1,1,No Major Arteries,Normal Blood Flow,No
+58,Male,Typical Angina,150,270,No,0,111,Pain,0.8,2,No Major Arteries,Abnormal Blood Flow,No
+35,Male,Atypical Angina,122,192,No,1,174,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+52,Male,Atypical Angina,120,325,No,1,172,No pain,0.2,2,No Major Arteries,Normal Blood Flow,Yes
+46,Female,Atypical Angina,105,204,No,1,172,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+51,Male,Non-Anginal Pain,94,227,No,1,154,Pain,0,2,One Major Arteries,Abnormal Blood Flow,Yes
+55,Female,Atypical Angina,132,342,No,1,166,No pain,1.2,2,No Major Arteries,Normal Blood Flow,Yes
+60,Male,Typical Angina,145,282,No,0,142,Pain,2.8,1,Two Major Arteries,Abnormal Blood Flow,No
+52,Female,Non-Anginal Pain,136,196,No,0,169,No pain,0.1,1,No Major Arteries,Normal Blood Flow,Yes
+62,Male,Typical Angina,120,267,No,1,99,Pain,1.8,1,Two Major Arteries,Abnormal Blood Flow,No
+44,Female,Non-Anginal Pain,118,242,No,1,149,No pain,0.3,1,One Major Arteries,Normal Blood Flow,Yes
+44,Male,Atypical Angina,120,220,No,1,170,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+59,Male,Non-Anginal Pain,126,218,Yes,1,134,No pain,2.2,1,One Major Arteries,Fixed Defect,No
+56,Female,Atypical Angina,140,294,No,0,153,No pain,1.3,1,No Major Arteries,Normal Blood Flow,Yes
+61,Male,Typical Angina,120,260,No,1,140,Pain,3.6,1,One Major Arteries,Abnormal Blood Flow,No
+48,Male,Typical Angina,130,256,Yes,0,150,Pain,0,2,Two Major Arteries,Abnormal Blood Flow,No
+70,Male,Non-Anginal Pain,160,269,No,1,112,Pain,2.9,1,One Major Arteries,Abnormal Blood Flow,No
+74,Female,Atypical Angina,120,269,No,0,121,Pain,0.2,2,One Major Arteries,Normal Blood Flow,Yes
+40,Male,Asymptomatic,140,199,No,1,178,Pain,1.4,2,No Major Arteries,Abnormal Blood Flow,Yes
+42,Male,Asymptomatic,148,244,No,0,178,No pain,0.8,2,Two Major Arteries,Normal Blood Flow,Yes
+64,Female,Non-Anginal Pain,140,313,No,1,133,No pain,0.2,2,No Major Arteries,Abnormal Blood Flow,Yes
+63,Female,Non-Anginal Pain,135,252,No,0,172,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+59,Male,Typical Angina,140,177,No,1,162,Pain,0,2,One Major Arteries,Abnormal Blood Flow,No
+53,Female,Typical Angina,130,264,No,0,143,No pain,0.4,1,No Major Arteries,Normal Blood Flow,Yes
+48,Female,Non-Anginal Pain,130,275,No,1,139,No pain,0.2,2,No Major Arteries,Normal Blood Flow,Yes
+45,Male,Typical Angina,142,309,No,0,147,Pain,0,1,Three Major Arteries,Abnormal Blood Flow,No
+66,Male,Atypical Angina,160,246,No,1,120,Pain,0,1,Three Major Arteries,Fixed Defect,No
+48,Male,Atypical Angina,130,245,No,0,180,No pain,0.2,1,No Major Arteries,Normal Blood Flow,Yes
+56,Female,Atypical Angina,140,294,No,0,153,No pain,1.3,1,No Major Arteries,Normal Blood Flow,Yes
+54,Male,Atypical Angina,192,283,No,0,195,No pain,0,2,One Major Arteries,Abnormal Blood Flow,No
+57,Male,Typical Angina,150,276,No,0,112,Pain,0.6,1,One Major Arteries,Fixed Defect,No
+70,Male,Typical Angina,130,322,No,0,109,No pain,2.4,1,Three Major Arteries,Normal Blood Flow,No
+37,Female,Non-Anginal Pain,120,215,No,1,170,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+63,Female,Typical Angina,108,269,No,1,169,Pain,1.8,1,Two Major Arteries,Normal Blood Flow,No
+37,Male,Non-Anginal Pain,130,250,No,1,187,No pain,3.5,0,No Major Arteries,Normal Blood Flow,Yes
+54,Female,Non-Anginal Pain,110,214,No,1,158,No pain,1.6,1,No Major Arteries,Normal Blood Flow,Yes
+60,Male,Typical Angina,130,206,No,0,132,Pain,2.4,1,Two Major Arteries,Abnormal Blood Flow,No
+58,Male,Typical Angina,150,270,No,0,111,Pain,0.8,2,No Major Arteries,Abnormal Blood Flow,No
+57,Male,Non-Anginal Pain,150,126,Yes,1,173,No pain,0.2,2,One Major Arteries,Abnormal Blood Flow,Yes
+54,Male,Non-Anginal Pain,125,273,No,0,152,No pain,0.5,0,One Major Arteries,Normal Blood Flow,Yes
+56,Male,Non-Anginal Pain,130,256,Yes,0,142,Pain,0.6,1,One Major Arteries,Fixed Defect,No
+60,Male,Typical Angina,130,253,No,1,144,Pain,1.4,2,One Major Arteries,Abnormal Blood Flow,No
+38,Male,Non-Anginal Pain,138,175,No,1,173,No pain,0,2,Four Major Arteries or More,Normal Blood Flow,Yes
+44,Male,Non-Anginal Pain,120,226,No,1,169,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+65,Female,Non-Anginal Pain,155,269,No,1,148,No pain,0.8,2,No Major Arteries,Normal Blood Flow,Yes
+52,Male,Non-Anginal Pain,172,199,Yes,1,162,No pain,0.5,2,No Major Arteries,Abnormal Blood Flow,Yes
+41,Male,Atypical Angina,120,157,No,1,182,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+66,Male,Atypical Angina,160,246,No,1,120,Pain,0,1,Three Major Arteries,Fixed Defect,No
+50,Male,Typical Angina,150,243,No,0,128,No pain,2.6,1,No Major Arteries,Abnormal Blood Flow,No
+54,Female,Non-Anginal Pain,108,267,No,0,167,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+43,Male,Typical Angina,132,247,Yes,0,143,Pain,0.1,1,Four Major Arteries or More,Abnormal Blood Flow,No
+62,Female,Non-Anginal Pain,130,263,No,1,97,No pain,1.2,1,One Major Arteries,Abnormal Blood Flow,No
+66,Male,Typical Angina,120,302,No,0,151,No pain,0.4,1,No Major Arteries,Normal Blood Flow,Yes
+50,Male,Typical Angina,144,200,No,0,126,Pain,0.9,1,No Major Arteries,Abnormal Blood Flow,No
+57,Male,Typical Angina,110,335,No,1,143,Pain,3,1,One Major Arteries,Abnormal Blood Flow,No
+57,Male,Typical Angina,110,201,No,1,126,Pain,1.5,1,No Major Arteries,Fixed Defect,Yes
+57,Male,Atypical Angina,124,261,No,1,141,No pain,0.3,2,No Major Arteries,Abnormal Blood Flow,No
+46,Female,Typical Angina,138,243,No,0,152,Pain,0,1,No Major Arteries,Normal Blood Flow,Yes
+59,Male,Typical Angina,164,176,Yes,0,90,No pain,1,1,Two Major Arteries,Fixed Defect,No
+67,Male,Typical Angina,160,286,No,0,108,Pain,1.5,1,Three Major Arteries,Normal Blood Flow,No
+59,Male,Asymptomatic,134,204,No,1,162,No pain,0.8,2,Two Major Arteries,Normal Blood Flow,No
+48,Male,Typical Angina,122,222,No,0,186,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+62,Male,Non-Anginal Pain,130,231,No,1,146,No pain,1.8,1,Three Major Arteries,Abnormal Blood Flow,Yes
+43,Female,Non-Anginal Pain,122,213,No,1,165,No pain,0.2,1,No Major Arteries,Normal Blood Flow,Yes
+53,Male,Non-Anginal Pain,130,246,Yes,0,173,No pain,0,2,Three Major Arteries,Normal Blood Flow,Yes
+57,Female,Atypical Angina,130,236,No,0,174,No pain,0,1,One Major Arteries,Normal Blood Flow,No
+53,Male,Non-Anginal Pain,130,246,Yes,0,173,No pain,0,2,Three Major Arteries,Normal Blood Flow,Yes
+58,Male,Non-Anginal Pain,112,230,No,0,165,No pain,2.5,1,One Major Arteries,Abnormal Blood Flow,No
+48,Male,Atypical Angina,110,229,No,1,168,No pain,1,0,No Major Arteries,Abnormal Blood Flow,No
+58,Male,Non-Anginal Pain,105,240,No,0,154,Pain,0.6,1,No Major Arteries,Abnormal Blood Flow,Yes
+51,Male,Non-Anginal Pain,110,175,No,1,123,No pain,0.6,2,No Major Arteries,Normal Blood Flow,Yes
+43,Female,Typical Angina,132,341,Yes,0,136,Pain,3,1,No Major Arteries,Abnormal Blood Flow,No
+55,Male,Typical Angina,132,353,No,1,132,Pain,1.2,1,One Major Arteries,Abnormal Blood Flow,No
+54,Female,Non-Anginal Pain,110,214,No,1,158,No pain,1.6,1,No Major Arteries,Normal Blood Flow,Yes
+58,Male,Atypical Angina,120,284,No,0,160,No pain,1.8,1,No Major Arteries,Normal Blood Flow,No
+46,Female,Non-Anginal Pain,142,177,No,0,160,Pain,1.4,0,No Major Arteries,Normal Blood Flow,Yes
+66,Male,Typical Angina,160,228,No,0,138,No pain,2.3,2,No Major Arteries,Fixed Defect,Yes
+59,Male,Atypical Angina,140,221,No,1,164,Pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+64,Female,Typical Angina,130,303,No,1,122,No pain,2,1,Two Major Arteries,Normal Blood Flow,Yes
+67,Male,Typical Angina,120,237,No,1,71,No pain,1,1,No Major Arteries,Normal Blood Flow,No
+52,Male,Asymptomatic,118,186,No,0,190,No pain,0,1,No Major Arteries,Fixed Defect,Yes
+58,Male,Typical Angina,146,218,No,1,105,No pain,2,1,One Major Arteries,Abnormal Blood Flow,No
+58,Male,Non-Anginal Pain,132,224,No,0,173,No pain,3.2,2,Two Major Arteries,Abnormal Blood Flow,No
+59,Male,Typical Angina,110,239,No,0,142,Pain,1.2,1,One Major Arteries,Abnormal Blood Flow,No
+58,Male,Typical Angina,150,270,No,0,111,Pain,0.8,2,No Major Arteries,Abnormal Blood Flow,No
+35,Male,Typical Angina,126,282,No,0,156,Pain,0,2,No Major Arteries,Abnormal Blood Flow,No
+51,Male,Non-Anginal Pain,110,175,No,1,123,No pain,0.6,2,No Major Arteries,Normal Blood Flow,Yes
+42,Female,Non-Anginal Pain,120,209,No,1,173,No pain,0,1,No Major Arteries,Normal Blood Flow,Yes
+77,Male,Typical Angina,125,304,No,0,162,Pain,0,2,Three Major Arteries,Normal Blood Flow,No
+64,Male,Typical Angina,120,246,No,0,96,Pain,2.2,0,One Major Arteries,Normal Blood Flow,No
+63,Male,Asymptomatic,145,233,Yes,0,150,No pain,2.3,0,No Major Arteries,Fixed Defect,Yes
+58,Female,Atypical Angina,136,319,Yes,0,152,No pain,0,2,Two Major Arteries,Normal Blood Flow,No
+45,Male,Asymptomatic,110,264,No,1,132,No pain,1.2,1,No Major Arteries,Abnormal Blood Flow,No
+51,Male,Non-Anginal Pain,110,175,No,1,123,No pain,0.6,2,No Major Arteries,Normal Blood Flow,Yes
+62,Female,Typical Angina,160,164,No,0,145,No pain,6.2,0,Three Major Arteries,Abnormal Blood Flow,No
+63,Male,Typical Angina,130,330,Yes,0,132,Pain,1.8,2,Three Major Arteries,Abnormal Blood Flow,No
+66,Female,Non-Anginal Pain,146,278,No,0,152,No pain,0,1,One Major Arteries,Normal Blood Flow,Yes
+68,Male,Non-Anginal Pain,180,274,Yes,0,150,Pain,1.6,1,No Major Arteries,Abnormal Blood Flow,No
+40,Male,Typical Angina,110,167,No,0,114,Pain,2,1,No Major Arteries,Abnormal Blood Flow,No
+66,Male,Typical Angina,160,228,No,0,138,No pain,2.3,2,No Major Arteries,Fixed Defect,Yes
+63,Male,Asymptomatic,145,233,Yes,0,150,No pain,2.3,0,No Major Arteries,Fixed Defect,Yes
+49,Male,Non-Anginal Pain,120,188,No,1,139,No pain,2,1,Three Major Arteries,Abnormal Blood Flow,No
+71,Female,Typical Angina,112,149,No,1,125,No pain,1.6,1,No Major Arteries,Normal Blood Flow,Yes
+70,Male,Atypical Angina,156,245,No,0,143,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+46,Female,Atypical Angina,105,204,No,1,172,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+61,Male,Typical Angina,140,207,No,0,138,Pain,1.9,2,One Major Arteries,Abnormal Blood Flow,No
+56,Male,Non-Anginal Pain,130,256,Yes,0,142,Pain,0.6,1,One Major Arteries,Fixed Defect,No
+58,Male,Non-Anginal Pain,140,211,Yes,0,165,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+58,Male,Typical Angina,100,234,No,1,156,No pain,0.1,2,One Major Arteries,Abnormal Blood Flow,No
+46,Female,Typical Angina,138,243,No,0,152,Pain,0,1,No Major Arteries,Normal Blood Flow,Yes
+46,Male,Non-Anginal Pain,150,231,No,1,147,No pain,3.6,1,No Major Arteries,Normal Blood Flow,No
+41,Female,Atypical Angina,105,198,No,1,168,No pain,0,2,One Major Arteries,Normal Blood Flow,Yes
+56,Male,Typical Angina,125,249,Yes,0,144,Pain,1.2,1,One Major Arteries,Normal Blood Flow,No
+57,Male,Typical Angina,150,276,No,0,112,Pain,0.6,1,One Major Arteries,Fixed Defect,No
+70,Male,Typical Angina,130,322,No,0,109,No pain,2.4,1,Three Major Arteries,Normal Blood Flow,No
+59,Male,Asymptomatic,170,288,No,0,159,No pain,0.2,1,No Major Arteries,Abnormal Blood Flow,No
+41,Female,Atypical Angina,130,204,No,0,172,No pain,1.4,2,No Major Arteries,Normal Blood Flow,Yes
+54,Male,Non-Anginal Pain,125,273,No,0,152,No pain,0.5,0,One Major Arteries,Normal Blood Flow,Yes
+52,Male,Non-Anginal Pain,138,223,No,1,169,No pain,0,2,Four Major Arteries or More,Normal Blood Flow,Yes
+62,Female,Typical Angina,124,209,No,1,163,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+65,Female,Non-Anginal Pain,160,360,No,0,151,No pain,0.8,2,No Major Arteries,Normal Blood Flow,Yes
+57,Female,Typical Angina,128,303,No,0,159,No pain,0,2,One Major Arteries,Normal Blood Flow,Yes
+42,Female,Typical Angina,102,265,No,0,122,No pain,0.6,1,No Major Arteries,Normal Blood Flow,Yes
+57,Female,Typical Angina,120,354,No,1,163,Pain,0.6,2,No Major Arteries,Normal Blood Flow,Yes
+58,Female,Atypical Angina,136,319,Yes,0,152,No pain,0,2,Two Major Arteries,Normal Blood Flow,No
+45,Male,Typical Angina,142,309,No,0,147,Pain,0,1,Three Major Arteries,Abnormal Blood Flow,No
+51,Female,Typical Angina,130,305,No,1,142,Pain,1.2,1,No Major Arteries,Abnormal Blood Flow,No
+54,Female,Non-Anginal Pain,160,201,No,1,163,No pain,0,2,One Major Arteries,Normal Blood Flow,Yes
+57,Male,Non-Anginal Pain,150,168,No,1,174,No pain,1.6,2,No Major Arteries,Normal Blood Flow,Yes
+43,Male,Typical Angina,132,247,Yes,0,143,Pain,0.1,1,Four Major Arteries or More,Abnormal Blood Flow,No
+47,Male,Non-Anginal Pain,108,243,No,1,152,No pain,0,2,No Major Arteries,Normal Blood Flow,No
+67,Male,Non-Anginal Pain,152,212,No,0,150,No pain,0.8,1,No Major Arteries,Abnormal Blood Flow,No
+65,Female,Typical Angina,150,225,No,0,114,No pain,1,1,Three Major Arteries,Abnormal Blood Flow,No
+60,Female,Non-Anginal Pain,102,318,No,1,160,No pain,0,2,One Major Arteries,Normal Blood Flow,Yes
+37,Male,Non-Anginal Pain,130,250,No,1,187,No pain,3.5,0,No Major Arteries,Normal Blood Flow,Yes
+41,Female,Non-Anginal Pain,112,268,No,0,172,Pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+57,Female,Typical Angina,120,354,No,1,163,Pain,0.6,2,No Major Arteries,Normal Blood Flow,Yes
+59,Female,Typical Angina,174,249,No,1,143,Pain,0,1,No Major Arteries,Normal Blood Flow,No
+67,Male,Typical Angina,120,229,No,0,129,Pain,2.6,1,Two Major Arteries,Abnormal Blood Flow,No
+47,Male,Non-Anginal Pain,130,253,No,1,179,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+58,Male,Atypical Angina,120,284,No,0,160,No pain,1.8,1,No Major Arteries,Normal Blood Flow,No
+62,Female,Typical Angina,150,244,No,1,154,Pain,1.4,1,No Major Arteries,Normal Blood Flow,No
+60,Male,Typical Angina,140,293,No,0,170,No pain,1.2,1,Two Major Arteries,Abnormal Blood Flow,No
+57,Male,Typical Angina,152,274,No,1,88,Pain,1.2,1,One Major Arteries,Abnormal Blood Flow,No
+57,Male,Non-Anginal Pain,150,168,No,1,174,No pain,1.6,2,No Major Arteries,Normal Blood Flow,Yes
+47,Male,Non-Anginal Pain,130,253,No,1,179,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+52,Male,Atypical Angina,128,205,Yes,1,184,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+53,Male,Non-Anginal Pain,130,246,Yes,0,173,No pain,0,2,Three Major Arteries,Normal Blood Flow,Yes
+55,Male,Typical Angina,160,289,No,0,145,Pain,0.8,1,One Major Arteries,Abnormal Blood Flow,No
+51,Female,Non-Anginal Pain,120,295,No,0,157,No pain,0.6,2,No Major Arteries,Normal Blood Flow,Yes
+52,Male,Typical Angina,112,230,No,1,160,No pain,0,2,One Major Arteries,Normal Blood Flow,No
+63,Female,Typical Angina,150,407,No,0,154,No pain,4,1,Three Major Arteries,Abnormal Blood Flow,No
+49,Female,Atypical Angina,134,271,No,1,162,No pain,0,1,No Major Arteries,Normal Blood Flow,Yes
+66,Female,Typical Angina,178,228,Yes,1,165,Pain,1,1,Two Major Arteries,Abnormal Blood Flow,No
+49,Female,Atypical Angina,134,271,No,1,162,No pain,0,1,No Major Arteries,Normal Blood Flow,Yes
+65,Female,Typical Angina,150,225,No,0,114,No pain,1,1,Three Major Arteries,Abnormal Blood Flow,No
+69,Male,Asymptomatic,160,234,Yes,0,131,No pain,0.1,1,One Major Arteries,Normal Blood Flow,Yes
+47,Male,Non-Anginal Pain,108,243,No,1,152,No pain,0,2,No Major Arteries,Normal Blood Flow,No
+39,Female,Non-Anginal Pain,138,220,No,1,152,No pain,0,1,No Major Arteries,Normal Blood Flow,Yes
+43,Male,Typical Angina,150,247,No,1,171,No pain,1.5,2,No Major Arteries,Normal Blood Flow,Yes
+51,Male,Typical Angina,140,261,No,0,186,Pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+69,Male,Non-Anginal Pain,140,254,No,0,146,No pain,2,1,Three Major Arteries,Abnormal Blood Flow,No
+48,Male,Non-Anginal Pain,124,255,Yes,1,175,No pain,0,2,Two Major Arteries,Normal Blood Flow,Yes
+52,Male,Asymptomatic,118,186,No,0,190,No pain,0,1,No Major Arteries,Fixed Defect,Yes
+43,Male,Typical Angina,110,211,No,1,161,No pain,0,2,No Major Arteries,Abnormal Blood Flow,Yes
+67,Female,Non-Anginal Pain,115,564,No,0,160,No pain,1.6,1,No Major Arteries,Abnormal Blood Flow,Yes
+38,Male,Non-Anginal Pain,138,175,No,1,173,No pain,0,2,Four Major Arteries or More,Normal Blood Flow,Yes
+44,Male,Atypical Angina,130,219,No,0,188,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+47,Male,Typical Angina,110,275,No,0,118,Pain,1,1,One Major Arteries,Normal Blood Flow,No
+61,Male,Non-Anginal Pain,150,243,Yes,1,137,Pain,1,1,No Major Arteries,Normal Blood Flow,Yes
+67,Male,Typical Angina,160,286,No,0,108,Pain,1.5,1,Three Major Arteries,Normal Blood Flow,No
+60,Female,Asymptomatic,150,240,No,1,171,No pain,0.9,2,No Major Arteries,Normal Blood Flow,Yes
+64,Female,Non-Anginal Pain,140,313,No,1,133,No pain,0.2,2,No Major Arteries,Abnormal Blood Flow,Yes
+58,Female,Typical Angina,130,197,No,1,131,No pain,0.6,1,No Major Arteries,Normal Blood Flow,Yes
+41,Male,Non-Anginal Pain,130,214,No,0,168,No pain,2,1,No Major Arteries,Normal Blood Flow,Yes
+48,Male,Atypical Angina,110,229,No,1,168,No pain,1,0,No Major Arteries,Abnormal Blood Flow,No
+57,Male,Non-Anginal Pain,150,126,Yes,1,173,No pain,0.2,2,One Major Arteries,Abnormal Blood Flow,Yes
+57,Male,Typical Angina,165,289,Yes,0,124,No pain,1,1,Three Major Arteries,Abnormal Blood Flow,No
+57,Male,Non-Anginal Pain,128,229,No,0,150,No pain,0.4,1,One Major Arteries,Abnormal Blood Flow,No
+39,Male,Non-Anginal Pain,140,321,No,0,182,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+58,Male,Typical Angina,128,216,No,0,131,Pain,2.2,1,Three Major Arteries,Abnormal Blood Flow,No
+51,Female,Typical Angina,130,305,No,1,142,Pain,1.2,1,No Major Arteries,Abnormal Blood Flow,No
+63,Female,Typical Angina,150,407,No,0,154,No pain,4,1,Three Major Arteries,Abnormal Blood Flow,No
+51,Male,Typical Angina,140,298,No,1,122,Pain,4.2,1,Three Major Arteries,Abnormal Blood Flow,No
+35,Male,Atypical Angina,122,192,No,1,174,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+65,Male,Typical Angina,110,248,No,0,158,No pain,0.6,2,Two Major Arteries,Fixed Defect,No
+62,Male,Atypical Angina,120,281,No,0,103,No pain,1.4,1,One Major Arteries,Abnormal Blood Flow,No
+41,Male,Typical Angina,110,172,No,0,158,No pain,0,2,No Major Arteries,Abnormal Blood Flow,No
+65,Male,Typical Angina,135,254,No,0,127,No pain,2.8,1,One Major Arteries,Abnormal Blood Flow,No
+54,Female,Atypical Angina,132,288,Yes,0,159,Pain,0,2,One Major Arteries,Normal Blood Flow,Yes
+61,Male,Non-Anginal Pain,150,243,Yes,1,137,Pain,1,1,No Major Arteries,Normal Blood Flow,Yes
+57,Female,Typical Angina,128,303,No,0,159,No pain,0,2,One Major Arteries,Normal Blood Flow,Yes
+57,Male,Non-Anginal Pain,150,168,No,1,174,No pain,1.6,2,No Major Arteries,Normal Blood Flow,Yes
+64,Male,Non-Anginal Pain,125,309,No,1,131,Pain,1.8,1,No Major Arteries,Abnormal Blood Flow,No
+55,Male,Typical Angina,132,353,No,1,132,Pain,1.2,1,One Major Arteries,Abnormal Blood Flow,No
+51,Male,Non-Anginal Pain,125,245,Yes,0,166,No pain,2.4,1,No Major Arteries,Normal Blood Flow,Yes
+59,Male,Typical Angina,135,234,No,1,161,No pain,0.5,1,No Major Arteries,Abnormal Blood Flow,Yes
+68,Male,Non-Anginal Pain,180,274,Yes,0,150,Pain,1.6,1,No Major Arteries,Abnormal Blood Flow,No
+57,Male,Atypical Angina,154,232,No,0,164,No pain,0,2,One Major Arteries,Normal Blood Flow,No
+54,Male,Typical Angina,140,239,No,1,160,No pain,1.2,2,No Major Arteries,Normal Blood Flow,Yes
+46,Female,Non-Anginal Pain,142,177,No,0,160,Pain,1.4,0,No Major Arteries,Normal Blood Flow,Yes
+71,Female,Typical Angina,112,149,No,1,125,No pain,1.6,1,No Major Arteries,Normal Blood Flow,Yes
+35,Female,Typical Angina,138,183,No,1,182,No pain,1.4,2,No Major Arteries,Normal Blood Flow,Yes
+46,Female,Non-Anginal Pain,142,177,No,0,160,Pain,1.4,0,No Major Arteries,Normal Blood Flow,Yes
+45,Female,Atypical Angina,130,234,No,0,175,No pain,0.6,1,No Major Arteries,Normal Blood Flow,Yes
+47,Male,Non-Anginal Pain,108,243,No,1,152,No pain,0,2,No Major Arteries,Normal Blood Flow,No
+44,Female,Non-Anginal Pain,118,242,No,1,149,No pain,0.3,1,One Major Arteries,Normal Blood Flow,Yes
+61,Male,Typical Angina,120,260,No,1,140,Pain,3.6,1,One Major Arteries,Abnormal Blood Flow,No
+41,Female,Atypical Angina,130,204,No,0,172,No pain,1.4,2,No Major Arteries,Normal Blood Flow,Yes
+56,Female,Typical Angina,200,288,Yes,0,133,Pain,4,0,Two Major Arteries,Abnormal Blood Flow,No
+55,Female,Typical Angina,180,327,No,2,117,Pain,3.4,1,No Major Arteries,Normal Blood Flow,No
+54,Female,Atypical Angina,132,288,Yes,0,159,Pain,0,2,One Major Arteries,Normal Blood Flow,Yes
+43,Male,Typical Angina,120,177,No,0,120,Pain,2.5,1,No Major Arteries,Abnormal Blood Flow,No
+44,Male,Typical Angina,112,290,No,0,153,No pain,0,2,One Major Arteries,Normal Blood Flow,No
+54,Male,Typical Angina,110,206,No,0,108,Pain,0,1,One Major Arteries,Normal Blood Flow,No
+44,Male,Atypical Angina,120,220,No,1,170,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+49,Male,Non-Anginal Pain,120,188,No,1,139,No pain,2,1,Three Major Arteries,Abnormal Blood Flow,No
+60,Male,Typical Angina,130,206,No,0,132,Pain,2.4,1,Two Major Arteries,Abnormal Blood Flow,No
+41,Female,Atypical Angina,105,198,No,1,168,No pain,0,2,One Major Arteries,Normal Blood Flow,Yes
+49,Male,Non-Anginal Pain,120,188,No,1,139,No pain,2,1,Three Major Arteries,Abnormal Blood Flow,No
+61,Male,Typical Angina,148,203,No,1,161,No pain,0,2,One Major Arteries,Abnormal Blood Flow,No
+59,Male,Typical Angina,140,177,No,1,162,Pain,0,2,One Major Arteries,Abnormal Blood Flow,No
+58,Male,Atypical Angina,125,220,No,1,144,No pain,0.4,1,Four Major Arteries or More,Abnormal Blood Flow,Yes
+67,Female,Non-Anginal Pain,152,277,No,1,172,No pain,0,2,One Major Arteries,Normal Blood Flow,Yes
+61,Male,Typical Angina,148,203,No,1,161,No pain,0,2,One Major Arteries,Abnormal Blood Flow,No
+58,Male,Non-Anginal Pain,112,230,No,0,165,No pain,2.5,1,One Major Arteries,Abnormal Blood Flow,No
+51,Female,Non-Anginal Pain,130,256,No,0,149,No pain,0.5,2,No Major Arteries,Normal Blood Flow,Yes
+62,Female,Typical Angina,160,164,No,0,145,No pain,6.2,0,Three Major Arteries,Abnormal Blood Flow,No
+62,Female,Typical Angina,124,209,No,1,163,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+59,Male,Asymptomatic,178,270,No,0,145,No pain,4.2,0,No Major Arteries,Abnormal Blood Flow,Yes
+69,Male,Asymptomatic,160,234,Yes,0,131,No pain,0.1,1,One Major Arteries,Normal Blood Flow,Yes
+60,Female,Typical Angina,150,258,No,0,157,No pain,2.6,1,Two Major Arteries,Abnormal Blood Flow,No
+65,Female,Non-Anginal Pain,155,269,No,1,148,No pain,0.8,2,No Major Arteries,Normal Blood Flow,Yes
+63,Female,Typical Angina,124,197,No,1,136,Pain,0,1,No Major Arteries,Normal Blood Flow,No
+53,Female,Typical Angina,138,234,No,0,160,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+54,Female,Non-Anginal Pain,108,267,No,0,167,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+76,Female,Non-Anginal Pain,140,197,No,2,116,No pain,1.1,1,No Major Arteries,Normal Blood Flow,Yes
+50,Female,Non-Anginal Pain,120,219,No,1,158,No pain,1.6,1,No Major Arteries,Normal Blood Flow,Yes
+52,Male,Atypical Angina,120,325,No,1,172,No pain,0.2,2,No Major Arteries,Normal Blood Flow,Yes
+46,Male,Typical Angina,120,249,No,0,144,No pain,0.8,2,No Major Arteries,Abnormal Blood Flow,No
+64,Male,Asymptomatic,170,227,No,0,155,No pain,0.6,1,No Major Arteries,Abnormal Blood Flow,Yes
+58,Male,Typical Angina,128,259,No,0,130,Pain,3,1,Two Major Arteries,Abnormal Blood Flow,No
+44,Male,Non-Anginal Pain,140,235,No,0,180,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+62,Female,Typical Angina,140,394,No,0,157,No pain,1.2,1,No Major Arteries,Normal Blood Flow,Yes
+59,Male,Asymptomatic,134,204,No,1,162,No pain,0.8,2,Two Major Arteries,Normal Blood Flow,No
+54,Male,Non-Anginal Pain,125,273,No,0,152,No pain,0.5,0,One Major Arteries,Normal Blood Flow,Yes
+48,Male,Atypical Angina,110,229,No,1,168,No pain,1,0,No Major Arteries,Abnormal Blood Flow,No
+70,Male,Typical Angina,130,322,No,0,109,No pain,2.4,1,Three Major Arteries,Normal Blood Flow,No
+67,Female,Typical Angina,106,223,No,1,142,No pain,0.3,2,Two Major Arteries,Normal Blood Flow,Yes
+51,Female,Non-Anginal Pain,120,295,No,0,157,No pain,0.6,2,No Major Arteries,Normal Blood Flow,Yes
+68,Male,Non-Anginal Pain,118,277,No,1,151,No pain,1,2,One Major Arteries,Abnormal Blood Flow,Yes
+69,Male,Non-Anginal Pain,140,254,No,0,146,No pain,2,1,Three Major Arteries,Abnormal Blood Flow,No
+54,Male,Typical Angina,122,286,No,0,116,Pain,3.2,1,Two Major Arteries,Normal Blood Flow,No
+43,Female,Typical Angina,132,341,Yes,0,136,Pain,3,1,No Major Arteries,Abnormal Blood Flow,No
+53,Male,Non-Anginal Pain,130,197,Yes,0,152,No pain,1.2,0,No Major Arteries,Normal Blood Flow,Yes
+58,Male,Typical Angina,100,234,No,1,156,No pain,0.1,2,One Major Arteries,Abnormal Blood Flow,No
+67,Male,Typical Angina,125,254,Yes,1,163,No pain,0.2,1,Two Major Arteries,Abnormal Blood Flow,No
+59,Male,Typical Angina,140,177,No,1,162,Pain,0,2,One Major Arteries,Abnormal Blood Flow,No
+48,Male,Typical Angina,122,222,No,0,186,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+39,Female,Non-Anginal Pain,94,199,No,1,179,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+67,Male,Typical Angina,120,237,No,1,71,No pain,1,1,No Major Arteries,Normal Blood Flow,No
+58,Female,Typical Angina,130,197,No,1,131,No pain,0.6,1,No Major Arteries,Normal Blood Flow,Yes
+65,Female,Non-Anginal Pain,155,269,No,1,148,No pain,0.8,2,No Major Arteries,Normal Blood Flow,Yes
+42,Female,Non-Anginal Pain,120,209,No,1,173,No pain,0,1,No Major Arteries,Normal Blood Flow,Yes
+44,Male,Typical Angina,112,290,No,0,153,No pain,0,2,One Major Arteries,Normal Blood Flow,No
+56,Male,Typical Angina,132,184,No,0,105,Pain,2.1,1,One Major Arteries,Fixed Defect,No
+53,Female,Typical Angina,138,234,No,0,160,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+50,Female,Typical Angina,110,254,No,0,159,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+41,Male,Non-Anginal Pain,130,214,No,0,168,No pain,2,1,No Major Arteries,Normal Blood Flow,Yes
+54,Female,Non-Anginal Pain,160,201,No,1,163,No pain,0,2,One Major Arteries,Normal Blood Flow,Yes
+42,Male,Non-Anginal Pain,120,240,Yes,1,194,No pain,0.8,0,No Major Arteries,Abnormal Blood Flow,Yes
+54,Female,Non-Anginal Pain,135,304,Yes,1,170,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+60,Male,Typical Angina,145,282,No,0,142,Pain,2.8,1,Two Major Arteries,Abnormal Blood Flow,No
+34,Male,Asymptomatic,118,182,No,0,174,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+44,Male,Typical Angina,112,290,No,0,153,No pain,0,2,One Major Arteries,Normal Blood Flow,No
+60,Male,Typical Angina,125,258,No,0,141,Pain,2.8,1,One Major Arteries,Abnormal Blood Flow,No
+43,Male,Typical Angina,150,247,No,1,171,No pain,1.5,2,No Major Arteries,Normal Blood Flow,Yes
+52,Male,Asymptomatic,152,298,Yes,1,178,No pain,1.2,1,No Major Arteries,Abnormal Blood Flow,Yes
+70,Male,Typical Angina,130,322,No,0,109,No pain,2.4,1,Three Major Arteries,Normal Blood Flow,No
+62,Female,Typical Angina,140,394,No,0,157,No pain,1.2,1,No Major Arteries,Normal Blood Flow,Yes
+58,Male,Typical Angina,146,218,No,1,105,No pain,2,1,One Major Arteries,Abnormal Blood Flow,No
+46,Male,Atypical Angina,101,197,Yes,1,156,No pain,0,2,No Major Arteries,Abnormal Blood Flow,Yes
+44,Male,Non-Anginal Pain,140,235,No,0,180,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+55,Male,Atypical Angina,130,262,No,1,155,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+43,Male,Typical Angina,120,177,No,0,120,Pain,2.5,1,No Major Arteries,Abnormal Blood Flow,No
+55,Male,Typical Angina,132,353,No,1,132,Pain,1.2,1,One Major Arteries,Abnormal Blood Flow,No
+40,Male,Asymptomatic,140,199,No,1,178,Pain,1.4,2,No Major Arteries,Abnormal Blood Flow,Yes
+64,Male,Non-Anginal Pain,125,309,No,1,131,Pain,1.8,1,No Major Arteries,Abnormal Blood Flow,No
+59,Male,Typical Angina,164,176,Yes,0,90,No pain,1,1,Two Major Arteries,Fixed Defect,No
+61,Female,Typical Angina,145,307,No,0,146,Pain,1,1,No Major Arteries,Abnormal Blood Flow,No
+54,Male,Typical Angina,122,286,No,0,116,Pain,3.2,1,Two Major Arteries,Normal Blood Flow,No
+74,Female,Atypical Angina,120,269,No,0,121,Pain,0.2,2,One Major Arteries,Normal Blood Flow,Yes
+63,Female,Typical Angina,108,269,No,1,169,Pain,1.8,1,Two Major Arteries,Normal Blood Flow,No
+70,Male,Non-Anginal Pain,160,269,No,1,112,Pain,2.9,1,One Major Arteries,Abnormal Blood Flow,No
+63,Female,Typical Angina,108,269,No,1,169,Pain,1.8,1,Two Major Arteries,Normal Blood Flow,No
+64,Male,Typical Angina,145,212,No,0,132,No pain,2,1,Two Major Arteries,Fixed Defect,No
+61,Male,Typical Angina,148,203,No,1,161,No pain,0,2,One Major Arteries,Abnormal Blood Flow,No
+59,Male,Atypical Angina,140,221,No,1,164,Pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+38,Male,Non-Anginal Pain,138,175,No,1,173,No pain,0,2,Four Major Arteries or More,Normal Blood Flow,Yes
+58,Male,Atypical Angina,120,284,No,0,160,No pain,1.8,1,No Major Arteries,Normal Blood Flow,No
+63,Female,Atypical Angina,140,195,No,1,179,No pain,0,2,Two Major Arteries,Normal Blood Flow,Yes
+62,Female,Non-Anginal Pain,130,263,No,1,97,No pain,1.2,1,One Major Arteries,Abnormal Blood Flow,No
+46,Male,Typical Angina,140,311,No,1,120,Pain,1.8,1,Two Major Arteries,Abnormal Blood Flow,No
+58,Female,Non-Anginal Pain,120,340,No,1,172,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+63,Female,Atypical Angina,140,195,No,1,179,No pain,0,2,Two Major Arteries,Normal Blood Flow,Yes
+47,Male,Non-Anginal Pain,130,253,No,1,179,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+71,Female,Non-Anginal Pain,110,265,Yes,0,130,No pain,0,2,One Major Arteries,Normal Blood Flow,Yes
+66,Male,Typical Angina,112,212,No,0,132,Pain,0.1,2,One Major Arteries,Normal Blood Flow,No
+42,Male,Typical Angina,136,315,No,1,125,Pain,1.8,1,No Major Arteries,Fixed Defect,No
+64,Male,Typical Angina,145,212,No,0,132,No pain,2,1,Two Major Arteries,Fixed Defect,No
+55,Female,Typical Angina,180,327,No,2,117,Pain,3.4,1,No Major Arteries,Normal Blood Flow,No
+43,Female,Typical Angina,132,341,Yes,0,136,Pain,3,1,No Major Arteries,Abnormal Blood Flow,No
+55,Female,Typical Angina,128,205,No,2,130,Pain,2,1,One Major Arteries,Abnormal Blood Flow,No
+58,Female,Typical Angina,170,225,Yes,0,146,Pain,2.8,1,Two Major Arteries,Fixed Defect,No
+55,Male,Typical Angina,140,217,No,1,111,Pain,5.6,0,No Major Arteries,Abnormal Blood Flow,No
+51,Female,Typical Angina,130,305,No,1,142,Pain,1.2,1,No Major Arteries,Abnormal Blood Flow,No
+50,Female,Non-Anginal Pain,120,219,No,1,158,No pain,1.6,1,No Major Arteries,Normal Blood Flow,Yes
+43,Male,Typical Angina,115,303,No,1,181,No pain,1.2,1,No Major Arteries,Normal Blood Flow,Yes
+41,Female,Atypical Angina,126,306,No,1,163,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+49,Male,Atypical Angina,130,266,No,1,171,No pain,0.6,2,No Major Arteries,Normal Blood Flow,Yes
+65,Male,Typical Angina,110,248,No,0,158,No pain,0.6,2,Two Major Arteries,Fixed Defect,No
+57,Male,Typical Angina,152,274,No,1,88,Pain,1.2,1,One Major Arteries,Abnormal Blood Flow,No
+48,Male,Typical Angina,130,256,Yes,0,150,Pain,0,2,Two Major Arteries,Abnormal Blood Flow,No
+62,Female,Typical Angina,138,294,Yes,1,106,No pain,1.9,1,Three Major Arteries,Normal Blood Flow,No
+61,Male,Asymptomatic,134,234,No,1,145,No pain,2.6,1,Two Major Arteries,Normal Blood Flow,No
+59,Male,Asymptomatic,178,270,No,0,145,No pain,4.2,0,No Major Arteries,Abnormal Blood Flow,Yes
+69,Male,Non-Anginal Pain,140,254,No,0,146,No pain,2,1,Three Major Arteries,Abnormal Blood Flow,No
+58,Male,Non-Anginal Pain,132,224,No,0,173,No pain,3.2,2,Two Major Arteries,Abnormal Blood Flow,No
+38,Male,Asymptomatic,120,231,No,1,182,Pain,3.8,1,No Major Arteries,Abnormal Blood Flow,No
+69,Female,Asymptomatic,140,239,No,1,151,No pain,1.8,2,Two Major Arteries,Normal Blood Flow,Yes
+65,Male,Asymptomatic,138,282,Yes,0,174,No pain,1.4,1,One Major Arteries,Normal Blood Flow,No
+45,Male,Asymptomatic,110,264,No,1,132,No pain,1.2,1,No Major Arteries,Abnormal Blood Flow,No
+49,Male,Atypical Angina,130,266,No,1,171,No pain,0.6,2,No Major Arteries,Normal Blood Flow,Yes
+45,Female,Atypical Angina,130,234,No,0,175,No pain,0.6,1,No Major Arteries,Normal Blood Flow,Yes
+61,Male,Typical Angina,138,166,No,0,125,Pain,3.6,1,One Major Arteries,Normal Blood Flow,No
+52,Male,Typical Angina,125,212,No,1,168,No pain,1,2,Two Major Arteries,Abnormal Blood Flow,No
+53,Female,Typical Angina,130,264,No,0,143,No pain,0.4,1,No Major Arteries,Normal Blood Flow,Yes
+59,Female,Typical Angina,174,249,No,1,143,Pain,0,1,No Major Arteries,Normal Blood Flow,No
+58,Female,Non-Anginal Pain,120,340,No,1,172,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+65,Male,Asymptomatic,138,282,Yes,0,174,No pain,1.4,1,One Major Arteries,Normal Blood Flow,No
+58,Female,Typical Angina,130,197,No,1,131,No pain,0.6,1,No Major Arteries,Normal Blood Flow,Yes
+46,Female,Typical Angina,138,243,No,0,152,Pain,0,1,No Major Arteries,Normal Blood Flow,Yes
+56,Female,Typical Angina,134,409,No,0,150,Pain,1.9,1,Two Major Arteries,Abnormal Blood Flow,No
+64,Male,Typical Angina,128,263,No,1,105,Pain,0.2,1,One Major Arteries,Abnormal Blood Flow,Yes
+65,Male,Typical Angina,120,177,No,1,140,No pain,0.4,2,No Major Arteries,Abnormal Blood Flow,Yes
+44,Male,Non-Anginal Pain,120,226,No,1,169,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+50,Male,Typical Angina,150,243,No,0,128,No pain,2.6,1,No Major Arteries,Abnormal Blood Flow,No
+47,Male,Non-Anginal Pain,108,243,No,1,152,No pain,0,2,No Major Arteries,Normal Blood Flow,No
+64,Female,Typical Angina,130,303,No,1,122,No pain,2,1,Two Major Arteries,Normal Blood Flow,Yes
+71,Female,Typical Angina,112,149,No,1,125,No pain,1.6,1,No Major Arteries,Normal Blood Flow,Yes
+45,Female,Atypical Angina,130,234,No,0,175,No pain,0.6,1,No Major Arteries,Normal Blood Flow,Yes
+62,Male,Typical Angina,120,267,No,1,99,Pain,1.8,1,Two Major Arteries,Abnormal Blood Flow,No
+41,Male,Atypical Angina,120,157,No,1,182,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+66,Female,Asymptomatic,150,226,No,1,114,No pain,2.6,0,No Major Arteries,Normal Blood Flow,Yes
+56,Male,Typical Angina,130,283,Yes,0,103,Pain,1.6,0,No Major Arteries,Abnormal Blood Flow,No
+41,Female,Atypical Angina,126,306,No,1,163,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+41,Male,Atypical Angina,110,235,No,1,153,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+57,Female,Atypical Angina,130,236,No,0,174,No pain,0,1,One Major Arteries,Normal Blood Flow,No
+39,Female,Non-Anginal Pain,138,220,No,1,152,No pain,0,1,No Major Arteries,Normal Blood Flow,Yes
+64,Male,Non-Anginal Pain,125,309,No,1,131,Pain,1.8,1,No Major Arteries,Abnormal Blood Flow,No
+59,Male,Typical Angina,138,271,No,0,182,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+61,Male,Typical Angina,138,166,No,0,125,Pain,3.6,1,One Major Arteries,Normal Blood Flow,No
+58,Male,Typical Angina,114,318,No,2,140,No pain,4.4,0,Three Major Arteries,Fixed Defect,No
+47,Male,Typical Angina,112,204,No,1,143,No pain,0.1,2,No Major Arteries,Normal Blood Flow,Yes
+58,Female,Typical Angina,100,248,No,0,122,No pain,1,1,No Major Arteries,Normal Blood Flow,Yes
+66,Female,Asymptomatic,150,226,No,1,114,No pain,2.6,0,No Major Arteries,Normal Blood Flow,Yes
+65,Female,Non-Anginal Pain,140,417,Yes,0,157,No pain,0.8,2,One Major Arteries,Normal Blood Flow,Yes
+35,Male,Atypical Angina,122,192,No,1,174,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+57,Male,Atypical Angina,124,261,No,1,141,No pain,0.3,2,No Major Arteries,Abnormal Blood Flow,No
+29,Male,Atypical Angina,130,204,No,0,202,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+66,Male,Atypical Angina,160,246,No,1,120,Pain,0,1,Three Major Arteries,Fixed Defect,No
+61,Female,Typical Angina,130,330,No,0,169,No pain,0,2,No Major Arteries,Normal Blood Flow,No
+52,Male,Typical Angina,125,212,No,1,168,No pain,1,2,Two Major Arteries,Abnormal Blood Flow,No
+68,Male,Non-Anginal Pain,118,277,No,1,151,No pain,1,2,One Major Arteries,Abnormal Blood Flow,Yes
+54,Male,Non-Anginal Pain,120,258,No,0,147,No pain,0.4,1,No Major Arteries,Abnormal Blood Flow,Yes
+63,Male,Typical Angina,130,330,Yes,0,132,Pain,1.8,2,Three Major Arteries,Abnormal Blood Flow,No
+58,Male,Typical Angina,100,234,No,1,156,No pain,0.1,2,One Major Arteries,Abnormal Blood Flow,No
+60,Male,Typical Angina,130,253,No,1,144,Pain,1.4,2,One Major Arteries,Abnormal Blood Flow,No
+63,Male,Typical Angina,130,254,No,0,147,No pain,1.4,1,One Major Arteries,Abnormal Blood Flow,No
+41,Female,Non-Anginal Pain,112,268,No,0,172,Pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+68,Male,Non-Anginal Pain,180,274,Yes,0,150,Pain,1.6,1,No Major Arteries,Abnormal Blood Flow,No
+42,Male,Atypical Angina,120,295,No,1,162,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+59,Male,Typical Angina,170,326,No,0,140,Pain,3.4,0,No Major Arteries,Abnormal Blood Flow,No
+59,Male,Typical Angina,164,176,Yes,0,90,No pain,1,1,Two Major Arteries,Fixed Defect,No
+43,Male,Typical Angina,120,177,No,0,120,Pain,2.5,1,No Major Arteries,Abnormal Blood Flow,No
+60,Male,Non-Anginal Pain,140,185,No,0,155,No pain,3,1,No Major Arteries,Normal Blood Flow,No
+63,Female,Typical Angina,150,407,No,0,154,No pain,4,1,Three Major Arteries,Abnormal Blood Flow,No
+58,Male,Typical Angina,125,300,No,0,171,No pain,0,2,Two Major Arteries,Abnormal Blood Flow,No
+56,Female,Typical Angina,200,288,Yes,0,133,Pain,4,0,Two Major Arteries,Abnormal Blood Flow,No
+54,Female,Non-Anginal Pain,135,304,Yes,1,170,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+58,Male,Non-Anginal Pain,105,240,No,0,154,Pain,0.6,1,No Major Arteries,Abnormal Blood Flow,Yes
+55,Female,Atypical Angina,135,250,No,0,161,No pain,1.4,1,No Major Arteries,Normal Blood Flow,Yes
+53,Male,Typical Angina,140,203,Yes,0,155,Pain,3.1,0,No Major Arteries,Abnormal Blood Flow,No
+63,Female,Atypical Angina,140,195,No,1,179,No pain,0,2,Two Major Arteries,Normal Blood Flow,Yes
+39,Male,Typical Angina,118,219,No,1,140,No pain,1.2,1,No Major Arteries,Abnormal Blood Flow,No
+35,Male,Typical Angina,126,282,No,0,156,Pain,0,2,No Major Arteries,Abnormal Blood Flow,No
+50,Female,Non-Anginal Pain,120,219,No,1,158,No pain,1.6,1,No Major Arteries,Normal Blood Flow,Yes
+67,Male,Non-Anginal Pain,152,212,No,0,150,No pain,0.8,1,No Major Arteries,Abnormal Blood Flow,No
+66,Male,Typical Angina,112,212,No,0,132,Pain,0.1,2,One Major Arteries,Normal Blood Flow,No
+35,Male,Typical Angina,126,282,No,0,156,Pain,0,2,No Major Arteries,Abnormal Blood Flow,No
+41,Male,Non-Anginal Pain,130,214,No,0,168,No pain,2,1,No Major Arteries,Normal Blood Flow,Yes
+35,Male,Typical Angina,120,198,No,1,130,Pain,1.6,1,No Major Arteries,Abnormal Blood Flow,No
+71,Female,Atypical Angina,160,302,No,1,162,No pain,0.4,2,Two Major Arteries,Normal Blood Flow,Yes
+57,Male,Typical Angina,110,201,No,1,126,Pain,1.5,1,No Major Arteries,Fixed Defect,Yes
+51,Male,Non-Anginal Pain,94,227,No,1,154,Pain,0,2,One Major Arteries,Abnormal Blood Flow,Yes
+58,Male,Typical Angina,128,216,No,0,131,Pain,2.2,1,Three Major Arteries,Abnormal Blood Flow,No
+57,Male,Non-Anginal Pain,128,229,No,0,150,No pain,0.4,1,One Major Arteries,Abnormal Blood Flow,No
+56,Female,Atypical Angina,140,294,No,0,153,No pain,1.3,1,No Major Arteries,Normal Blood Flow,Yes
+60,Female,Non-Anginal Pain,120,178,Yes,1,96,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+45,Male,Asymptomatic,110,264,No,1,132,No pain,1.2,1,No Major Arteries,Abnormal Blood Flow,No
+56,Male,Atypical Angina,130,221,No,0,163,No pain,0,2,No Major Arteries,Abnormal Blood Flow,Yes
+35,Male,Typical Angina,120,198,No,1,130,Pain,1.6,1,No Major Arteries,Abnormal Blood Flow,No
+45,Female,Atypical Angina,112,160,No,1,138,No pain,0,1,No Major Arteries,Normal Blood Flow,Yes
+66,Female,Asymptomatic,150,226,No,1,114,No pain,2.6,0,No Major Arteries,Normal Blood Flow,Yes
+51,Male,Asymptomatic,125,213,No,0,125,Pain,1.4,2,One Major Arteries,Normal Blood Flow,Yes
+70,Male,Atypical Angina,156,245,No,0,143,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+55,Female,Typical Angina,128,205,No,2,130,Pain,2,1,One Major Arteries,Abnormal Blood Flow,No
+56,Male,Non-Anginal Pain,130,256,Yes,0,142,Pain,0.6,1,One Major Arteries,Fixed Defect,No
+55,Female,Atypical Angina,135,250,No,0,161,No pain,1.4,1,No Major Arteries,Normal Blood Flow,Yes
+52,Male,Typical Angina,108,233,Yes,1,147,No pain,0.1,2,Three Major Arteries,Abnormal Blood Flow,Yes
+64,Male,Non-Anginal Pain,140,335,No,1,158,No pain,0,2,No Major Arteries,Normal Blood Flow,No
+45,Male,Typical Angina,115,260,No,0,185,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+67,Female,Non-Anginal Pain,152,277,No,1,172,No pain,0,2,One Major Arteries,Normal Blood Flow,Yes
+68,Female,Non-Anginal Pain,120,211,No,0,115,No pain,1.5,1,No Major Arteries,Normal Blood Flow,Yes
+74,Female,Atypical Angina,120,269,No,0,121,Pain,0.2,2,One Major Arteries,Normal Blood Flow,Yes
+60,Female,Typical Angina,150,258,No,0,157,No pain,2.6,1,Two Major Arteries,Abnormal Blood Flow,No
+48,Male,Typical Angina,124,274,No,0,166,No pain,0.5,1,No Major Arteries,Abnormal Blood Flow,No
+56,Male,Atypical Angina,130,221,No,0,163,No pain,0,2,No Major Arteries,Abnormal Blood Flow,Yes
+46,Male,Typical Angina,140,311,No,1,120,Pain,1.8,1,Two Major Arteries,Abnormal Blood Flow,No
+55,Female,Atypical Angina,135,250,No,0,161,No pain,1.4,1,No Major Arteries,Normal Blood Flow,Yes
+44,Male,Atypical Angina,120,220,No,1,170,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+52,Male,Typical Angina,112,230,No,1,160,No pain,0,2,One Major Arteries,Normal Blood Flow,No
+51,Male,Non-Anginal Pain,94,227,No,1,154,Pain,0,2,One Major Arteries,Abnormal Blood Flow,Yes
+44,Female,Non-Anginal Pain,108,141,No,1,175,No pain,0.6,1,No Major Arteries,Normal Blood Flow,Yes
+50,Male,Non-Anginal Pain,129,196,No,1,163,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+59,Male,Typical Angina,110,239,No,0,142,Pain,1.2,1,One Major Arteries,Abnormal Blood Flow,No
+67,Male,Typical Angina,120,229,No,0,129,Pain,2.6,1,Two Major Arteries,Abnormal Blood Flow,No
+58,Male,Typical Angina,125,300,No,0,171,No pain,0,2,Two Major Arteries,Abnormal Blood Flow,No
+52,Male,Typical Angina,128,255,No,1,161,Pain,0,2,One Major Arteries,Abnormal Blood Flow,No
+44,Male,Non-Anginal Pain,140,235,No,0,180,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+41,Female,Non-Anginal Pain,112,268,No,0,172,Pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+63,Male,Typical Angina,130,330,Yes,0,132,Pain,1.8,2,Three Major Arteries,Abnormal Blood Flow,No
+58,Male,Atypical Angina,125,220,No,1,144,No pain,0.4,1,Four Major Arteries or More,Abnormal Blood Flow,Yes
+60,Female,Non-Anginal Pain,102,318,No,1,160,No pain,0,2,One Major Arteries,Normal Blood Flow,Yes
+51,Male,Non-Anginal Pain,100,222,No,1,143,Pain,1.2,1,No Major Arteries,Normal Blood Flow,Yes
+64,Male,Non-Anginal Pain,140,335,No,1,158,No pain,0,2,No Major Arteries,Normal Blood Flow,No
+60,Male,Typical Angina,117,230,Yes,1,160,Pain,1.4,2,Two Major Arteries,Abnormal Blood Flow,No
+44,Male,Non-Anginal Pain,120,226,No,1,169,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+58,Male,Atypical Angina,125,220,No,1,144,No pain,0.4,1,Four Major Arteries or More,Abnormal Blood Flow,Yes
+55,Male,Atypical Angina,130,262,No,1,155,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+65,Female,Non-Anginal Pain,160,360,No,0,151,No pain,0.8,2,No Major Arteries,Normal Blood Flow,Yes
+48,Male,Atypical Angina,130,245,No,0,180,No pain,0.2,1,No Major Arteries,Normal Blood Flow,Yes
+65,Male,Typical Angina,120,177,No,1,140,No pain,0.4,2,No Major Arteries,Abnormal Blood Flow,Yes
+51,Female,Non-Anginal Pain,130,256,No,0,149,No pain,0.5,2,No Major Arteries,Normal Blood Flow,Yes
+48,Male,Non-Anginal Pain,124,255,Yes,1,175,No pain,0,2,Two Major Arteries,Normal Blood Flow,Yes
+64,Male,Typical Angina,120,246,No,0,96,Pain,2.2,0,One Major Arteries,Normal Blood Flow,No
+66,Male,Typical Angina,160,228,No,0,138,No pain,2.3,2,No Major Arteries,Fixed Defect,Yes
+46,Female,Atypical Angina,105,204,No,1,172,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+61,Female,Typical Angina,130,330,No,0,169,No pain,0,2,No Major Arteries,Normal Blood Flow,No
+57,Male,Typical Angina,150,276,No,0,112,Pain,0.6,1,One Major Arteries,Fixed Defect,No
+49,Female,Typical Angina,130,269,No,1,163,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+56,Male,Atypical Angina,130,221,No,0,163,No pain,0,2,No Major Arteries,Abnormal Blood Flow,Yes
+58,Female,Asymptomatic,150,283,Yes,0,162,No pain,1,2,No Major Arteries,Normal Blood Flow,Yes
+63,Male,Typical Angina,140,187,No,0,144,Pain,4,2,Two Major Arteries,Abnormal Blood Flow,No
+57,Male,Typical Angina,110,335,No,1,143,Pain,3,1,One Major Arteries,Abnormal Blood Flow,No
+57,Male,Typical Angina,110,335,No,1,143,Pain,3,1,One Major Arteries,Abnormal Blood Flow,No
+68,Male,Typical Angina,144,193,Yes,1,141,No pain,3.4,1,Two Major Arteries,Abnormal Blood Flow,No
+46,Male,Atypical Angina,101,197,Yes,1,156,No pain,0,2,No Major Arteries,Abnormal Blood Flow,Yes
+71,Female,Non-Anginal Pain,110,265,Yes,0,130,No pain,0,2,One Major Arteries,Normal Blood Flow,Yes
+41,Male,Atypical Angina,135,203,No,1,132,No pain,0,1,No Major Arteries,Fixed Defect,Yes
+45,Female,Typical Angina,138,236,No,0,152,Pain,0.2,1,No Major Arteries,Normal Blood Flow,Yes
+62,Female,Typical Angina,150,244,No,1,154,Pain,1.4,1,No Major Arteries,Normal Blood Flow,No
+65,Female,Typical Angina,150,225,No,0,114,No pain,1,1,Three Major Arteries,Abnormal Blood Flow,No
+48,Female,Non-Anginal Pain,130,275,No,1,139,No pain,0.2,2,No Major Arteries,Normal Blood Flow,Yes
+51,Male,Non-Anginal Pain,100,222,No,1,143,Pain,1.2,1,No Major Arteries,Normal Blood Flow,Yes
+61,Female,Typical Angina,145,307,No,0,146,Pain,1,1,No Major Arteries,Abnormal Blood Flow,No
+53,Male,Typical Angina,123,282,No,1,95,Pain,2,1,Two Major Arteries,Abnormal Blood Flow,No
+59,Male,Asymptomatic,134,204,No,1,162,No pain,0.8,2,Two Major Arteries,Normal Blood Flow,No
+34,Female,Atypical Angina,118,210,No,1,192,No pain,0.7,2,No Major Arteries,Normal Blood Flow,Yes
+44,Male,Typical Angina,120,169,No,1,144,Pain,2.8,0,No Major Arteries,Fixed Defect,No
+58,Male,Typical Angina,146,218,No,1,105,No pain,2,1,One Major Arteries,Abnormal Blood Flow,No
+64,Female,Typical Angina,130,303,No,1,122,No pain,2,1,Two Major Arteries,Normal Blood Flow,Yes
+56,Male,Atypical Angina,120,240,No,1,169,No pain,0,0,No Major Arteries,Normal Blood Flow,Yes
+54,Male,Non-Anginal Pain,150,232,No,0,165,No pain,1.6,2,No Major Arteries,Abnormal Blood Flow,Yes
+55,Male,Typical Angina,160,289,No,0,145,Pain,0.8,1,One Major Arteries,Abnormal Blood Flow,No
+67,Male,Typical Angina,125,254,Yes,1,163,No pain,0.2,1,Two Major Arteries,Abnormal Blood Flow,No
+51,Male,Typical Angina,140,298,No,1,122,Pain,4.2,1,Three Major Arteries,Abnormal Blood Flow,No
+62,Female,Typical Angina,138,294,Yes,1,106,No pain,1.9,1,Three Major Arteries,Normal Blood Flow,No
+62,Male,Atypical Angina,120,281,No,0,103,No pain,1.4,1,One Major Arteries,Abnormal Blood Flow,No
+54,Male,Typical Angina,110,239,No,1,126,Pain,2.8,1,One Major Arteries,Abnormal Blood Flow,No
+54,Male,Typical Angina,110,239,No,1,126,Pain,2.8,1,One Major Arteries,Abnormal Blood Flow,No
+68,Male,Typical Angina,144,193,Yes,1,141,No pain,3.4,1,Two Major Arteries,Abnormal Blood Flow,No
+60,Female,Non-Anginal Pain,120,178,Yes,1,96,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+61,Male,Asymptomatic,134,234,No,1,145,No pain,2.6,1,Two Major Arteries,Normal Blood Flow,No
+62,Male,Atypical Angina,128,208,Yes,0,140,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+41,Male,Atypical Angina,135,203,No,1,132,No pain,0,1,No Major Arteries,Fixed Defect,Yes
+65,Female,Typical Angina,150,225,No,0,114,No pain,1,1,Three Major Arteries,Abnormal Blood Flow,No
+59,Male,Asymptomatic,170,288,No,0,159,No pain,0.2,1,No Major Arteries,Abnormal Blood Flow,No
+43,Male,Typical Angina,115,303,No,1,181,No pain,1.2,1,No Major Arteries,Normal Blood Flow,Yes
+67,Male,Typical Angina,120,229,No,0,129,Pain,2.6,1,Two Major Arteries,Abnormal Blood Flow,No
+63,Male,Asymptomatic,145,233,Yes,0,150,No pain,2.3,0,No Major Arteries,Fixed Defect,Yes
+63,Female,Typical Angina,124,197,No,1,136,Pain,0,1,No Major Arteries,Normal Blood Flow,No
+52,Male,Typical Angina,112,230,No,1,160,No pain,0,2,One Major Arteries,Normal Blood Flow,No
+58,Female,Typical Angina,130,197,No,1,131,No pain,0.6,1,No Major Arteries,Normal Blood Flow,Yes
+53,Male,Typical Angina,142,226,No,0,111,Pain,0,2,No Major Arteries,Abnormal Blood Flow,Yes
+57,Male,Typical Angina,150,276,No,0,112,Pain,0.6,1,One Major Arteries,Fixed Defect,No
+44,Male,Non-Anginal Pain,130,233,No,1,179,Pain,0.4,2,No Major Arteries,Normal Blood Flow,Yes
+51,Male,Non-Anginal Pain,94,227,No,1,154,Pain,0,2,One Major Arteries,Abnormal Blood Flow,Yes
+54,Female,Non-Anginal Pain,110,214,No,1,158,No pain,1.6,1,No Major Arteries,Normal Blood Flow,Yes
+40,Male,Typical Angina,110,167,No,0,114,Pain,2,1,No Major Arteries,Abnormal Blood Flow,No
+57,Male,Atypical Angina,124,261,No,1,141,No pain,0.3,2,No Major Arteries,Abnormal Blood Flow,No
+62,Female,Typical Angina,140,268,No,0,160,No pain,3.6,0,Two Major Arteries,Normal Blood Flow,No
+53,Male,Typical Angina,140,203,Yes,0,155,Pain,3.1,0,No Major Arteries,Abnormal Blood Flow,No
+62,Male,Atypical Angina,128,208,Yes,0,140,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+58,Male,Non-Anginal Pain,105,240,No,0,154,Pain,0.6,1,No Major Arteries,Abnormal Blood Flow,Yes
+70,Male,Atypical Angina,156,245,No,0,143,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+45,Male,Typical Angina,115,260,No,0,185,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+42,Male,Asymptomatic,148,244,No,0,178,No pain,0.8,2,Two Major Arteries,Normal Blood Flow,Yes
+58,Female,Typical Angina,170,225,Yes,0,146,Pain,2.8,1,Two Major Arteries,Fixed Defect,No
+61,Male,Typical Angina,140,207,No,0,138,Pain,1.9,2,One Major Arteries,Abnormal Blood Flow,No
+62,Female,Typical Angina,140,268,No,0,160,No pain,3.6,0,Two Major Arteries,Normal Blood Flow,No
+60,Male,Typical Angina,130,253,No,1,144,Pain,1.4,2,One Major Arteries,Abnormal Blood Flow,No
+54,Male,Typical Angina,140,239,No,1,160,No pain,1.2,2,No Major Arteries,Normal Blood Flow,Yes
+61,Male,Typical Angina,138,166,No,0,125,Pain,3.6,1,One Major Arteries,Normal Blood Flow,No
+63,Female,Non-Anginal Pain,135,252,No,0,172,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+42,Male,Non-Anginal Pain,130,180,No,1,150,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+57,Male,Non-Anginal Pain,128,229,No,0,150,No pain,0.4,1,One Major Arteries,Abnormal Blood Flow,No
+44,Male,Non-Anginal Pain,130,233,No,1,179,Pain,0.4,2,No Major Arteries,Normal Blood Flow,Yes
+54,Male,Typical Angina,124,266,No,0,109,Pain,2.2,1,One Major Arteries,Abnormal Blood Flow,No
+51,Male,Non-Anginal Pain,100,222,No,1,143,Pain,1.2,1,No Major Arteries,Normal Blood Flow,Yes
+58,Male,Atypical Angina,125,220,No,1,144,No pain,0.4,1,Four Major Arteries or More,Abnormal Blood Flow,Yes
+68,Male,Non-Anginal Pain,118,277,No,1,151,No pain,1,2,One Major Arteries,Abnormal Blood Flow,Yes
+55,Male,Typical Angina,140,217,No,1,111,Pain,5.6,0,No Major Arteries,Abnormal Blood Flow,No
+42,Male,Typical Angina,136,315,No,1,125,Pain,1.8,1,No Major Arteries,Fixed Defect,No
+49,Male,Non-Anginal Pain,118,149,No,0,126,No pain,0.8,2,Three Major Arteries,Normal Blood Flow,No
+53,Female,Typical Angina,138,234,No,0,160,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+52,Male,Non-Anginal Pain,172,199,Yes,1,162,No pain,0.5,2,No Major Arteries,Abnormal Blood Flow,Yes
+51,Male,Asymptomatic,125,213,No,0,125,Pain,1.4,2,One Major Arteries,Normal Blood Flow,Yes
+51,Male,Typical Angina,140,261,No,0,186,Pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+70,Male,Typical Angina,145,174,No,1,125,Pain,2.6,0,No Major Arteries,Abnormal Blood Flow,No
+35,Female,Typical Angina,138,183,No,1,182,No pain,1.4,2,No Major Arteries,Normal Blood Flow,Yes
+58,Male,Non-Anginal Pain,112,230,No,0,165,No pain,2.5,1,One Major Arteries,Abnormal Blood Flow,No
+59,Male,Asymptomatic,160,273,No,0,125,No pain,0,2,No Major Arteries,Normal Blood Flow,No
+60,Male,Typical Angina,140,293,No,0,170,No pain,1.2,1,Two Major Arteries,Abnormal Blood Flow,No
+56,Male,Typical Angina,132,184,No,0,105,Pain,2.1,1,One Major Arteries,Fixed Defect,No
+35,Female,Typical Angina,138,183,No,1,182,No pain,1.4,2,No Major Arteries,Normal Blood Flow,Yes
+61,Male,Typical Angina,138,166,No,0,125,Pain,3.6,1,One Major Arteries,Normal Blood Flow,No
+58,Female,Asymptomatic,150,283,Yes,0,162,No pain,1,2,No Major Arteries,Normal Blood Flow,Yes
+52,Male,Typical Angina,128,255,No,1,161,Pain,0,2,One Major Arteries,Abnormal Blood Flow,No
+58,Male,Atypical Angina,120,284,No,0,160,No pain,1.8,1,No Major Arteries,Normal Blood Flow,No
+37,Male,Non-Anginal Pain,130,250,No,1,187,No pain,3.5,0,No Major Arteries,Normal Blood Flow,Yes
+52,Male,Typical Angina,128,255,No,1,161,Pain,0,2,One Major Arteries,Abnormal Blood Flow,No
+67,Male,Typical Angina,120,229,No,0,129,Pain,2.6,1,Two Major Arteries,Abnormal Blood Flow,No
+65,Male,Asymptomatic,138,282,Yes,0,174,No pain,1.4,1,One Major Arteries,Normal Blood Flow,No
+46,Male,Atypical Angina,101,197,Yes,1,156,No pain,0,2,No Major Arteries,Abnormal Blood Flow,Yes
+68,Female,Non-Anginal Pain,120,211,No,0,115,No pain,1.5,1,No Major Arteries,Normal Blood Flow,Yes
+43,Male,Typical Angina,115,303,No,1,181,No pain,1.2,1,No Major Arteries,Normal Blood Flow,Yes
+68,Female,Non-Anginal Pain,120,211,No,0,115,No pain,1.5,1,No Major Arteries,Normal Blood Flow,Yes
+51,Male,Typical Angina,140,299,No,1,173,Pain,1.6,2,No Major Arteries,Abnormal Blood Flow,No
+52,Male,Typical Angina,112,230,No,1,160,No pain,0,2,One Major Arteries,Normal Blood Flow,No
+64,Male,Non-Anginal Pain,140,335,No,1,158,No pain,0,2,No Major Arteries,Normal Blood Flow,No
+59,Male,Asymptomatic,170,288,No,0,159,No pain,0.2,1,No Major Arteries,Abnormal Blood Flow,No
+52,Male,Typical Angina,125,212,No,1,168,No pain,1,2,Two Major Arteries,Abnormal Blood Flow,No
+59,Male,Asymptomatic,160,273,No,0,125,No pain,0,2,No Major Arteries,Normal Blood Flow,No
+60,Female,Asymptomatic,150,240,No,1,171,No pain,0.9,2,No Major Arteries,Normal Blood Flow,Yes
+41,Male,Non-Anginal Pain,112,250,No,1,179,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+41,Male,Atypical Angina,110,235,No,1,153,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+56,Male,Atypical Angina,120,240,No,1,169,No pain,0,0,No Major Arteries,Normal Blood Flow,Yes
+56,Male,Atypical Angina,120,236,No,1,178,No pain,0.8,2,No Major Arteries,Normal Blood Flow,Yes
+48,Female,Non-Anginal Pain,130,275,No,1,139,No pain,0.2,2,No Major Arteries,Normal Blood Flow,Yes
+39,Male,Non-Anginal Pain,140,321,No,0,182,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+64,Male,Asymptomatic,170,227,No,0,155,No pain,0.6,1,No Major Arteries,Abnormal Blood Flow,Yes
+57,Male,Typical Angina,140,192,No,1,148,No pain,0.4,1,No Major Arteries,Fixed Defect,Yes
+59,Male,Asymptomatic,160,273,No,0,125,No pain,0,2,No Major Arteries,Normal Blood Flow,No
+60,Male,Typical Angina,130,206,No,0,132,Pain,2.4,1,Two Major Arteries,Abnormal Blood Flow,No
+61,Male,Typical Angina,140,207,No,0,138,Pain,1.9,2,One Major Arteries,Abnormal Blood Flow,No
+43,Female,Non-Anginal Pain,122,213,No,1,165,No pain,0.2,1,No Major Arteries,Normal Blood Flow,Yes
+54,Male,Typical Angina,120,188,No,1,113,No pain,1.4,1,One Major Arteries,Abnormal Blood Flow,No
+59,Male,Typical Angina,138,271,No,0,182,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+57,Male,Typical Angina,132,207,No,1,168,Pain,0,2,No Major Arteries,Abnormal Blood Flow,Yes
+57,Male,Atypical Angina,154,232,No,0,164,No pain,0,2,One Major Arteries,Normal Blood Flow,No
+57,Male,Typical Angina,130,131,No,1,115,Pain,1.2,1,One Major Arteries,Abnormal Blood Flow,No
+48,Male,Typical Angina,124,274,No,0,166,No pain,0.5,1,No Major Arteries,Abnormal Blood Flow,No
+70,Male,Typical Angina,145,174,No,1,125,Pain,2.6,0,No Major Arteries,Abnormal Blood Flow,No
+57,Male,Typical Angina,165,289,Yes,0,124,No pain,1,1,Three Major Arteries,Abnormal Blood Flow,No
+61,Male,Typical Angina,120,260,No,1,140,Pain,3.6,1,One Major Arteries,Abnormal Blood Flow,No
+57,Male,Typical Angina,110,201,No,1,126,Pain,1.5,1,No Major Arteries,Fixed Defect,Yes
+60,Female,Typical Angina,150,258,No,0,157,No pain,2.6,1,Two Major Arteries,Abnormal Blood Flow,No
+63,Female,Typical Angina,150,407,No,0,154,No pain,4,1,Three Major Arteries,Abnormal Blood Flow,No
+55,Female,Typical Angina,128,205,No,2,130,Pain,2,1,One Major Arteries,Abnormal Blood Flow,No
+64,Female,Typical Angina,180,325,No,1,154,Pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+54,Male,Typical Angina,110,239,No,1,126,Pain,2.8,1,One Major Arteries,Abnormal Blood Flow,No
+51,Male,Typical Angina,140,299,No,1,173,Pain,1.6,2,No Major Arteries,Abnormal Blood Flow,No
+62,Female,Non-Anginal Pain,130,263,No,1,97,No pain,1.2,1,One Major Arteries,Abnormal Blood Flow,No
+59,Male,Asymptomatic,178,270,No,0,145,No pain,4.2,0,No Major Arteries,Abnormal Blood Flow,Yes
+52,Male,Atypical Angina,134,201,No,1,158,No pain,0.8,2,One Major Arteries,Normal Blood Flow,Yes
+42,Female,Typical Angina,102,265,No,0,122,No pain,0.6,1,No Major Arteries,Normal Blood Flow,Yes
+59,Male,Typical Angina,135,234,No,1,161,No pain,0.5,1,No Major Arteries,Abnormal Blood Flow,Yes
+61,Male,Asymptomatic,134,234,No,1,145,No pain,2.6,1,Two Major Arteries,Normal Blood Flow,No
+42,Female,Typical Angina,102,265,No,0,122,No pain,0.6,1,No Major Arteries,Normal Blood Flow,Yes
+62,Female,Typical Angina,140,268,No,0,160,No pain,3.6,0,Two Major Arteries,Normal Blood Flow,No
+59,Male,Non-Anginal Pain,126,218,Yes,1,134,No pain,2.2,1,One Major Arteries,Fixed Defect,No
+55,Male,Atypical Angina,130,262,No,1,155,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+64,Male,Typical Angina,120,246,No,0,96,Pain,2.2,0,One Major Arteries,Normal Blood Flow,No
+42,Male,Typical Angina,140,226,No,1,178,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+50,Female,Atypical Angina,120,244,No,1,162,No pain,1.1,2,No Major Arteries,Normal Blood Flow,Yes
+62,Male,Typical Angina,120,267,No,1,99,Pain,1.8,1,Two Major Arteries,Abnormal Blood Flow,No
+50,Male,Typical Angina,144,200,No,0,126,Pain,0.9,1,No Major Arteries,Abnormal Blood Flow,No
+50,Male,Non-Anginal Pain,140,233,No,1,163,No pain,0.6,1,One Major Arteries,Abnormal Blood Flow,No
+58,Female,Atypical Angina,136,319,Yes,0,152,No pain,0,2,Two Major Arteries,Normal Blood Flow,No
+35,Male,Typical Angina,120,198,No,1,130,Pain,1.6,1,No Major Arteries,Abnormal Blood Flow,No
+45,Male,Typical Angina,104,208,No,0,148,Pain,3,1,No Major Arteries,Normal Blood Flow,Yes
+66,Male,Typical Angina,112,212,No,0,132,Pain,0.1,2,One Major Arteries,Normal Blood Flow,No
+46,Male,Typical Angina,120,249,No,0,144,No pain,0.8,2,No Major Arteries,Abnormal Blood Flow,No
+65,Male,Typical Angina,135,254,No,0,127,No pain,2.8,1,One Major Arteries,Abnormal Blood Flow,No
+47,Male,Non-Anginal Pain,130,253,No,1,179,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+59,Male,Asymptomatic,134,204,No,1,162,No pain,0.8,2,Two Major Arteries,Normal Blood Flow,No
+38,Male,Asymptomatic,120,231,No,1,182,Pain,3.8,1,No Major Arteries,Abnormal Blood Flow,No
+39,Male,Typical Angina,118,219,No,1,140,No pain,1.2,1,No Major Arteries,Abnormal Blood Flow,No
+58,Male,Typical Angina,146,218,No,1,105,No pain,2,1,One Major Arteries,Abnormal Blood Flow,No
+44,Male,Atypical Angina,120,263,No,1,173,No pain,0,2,No Major Arteries,Abnormal Blood Flow,Yes
+54,Male,Typical Angina,140,239,No,1,160,No pain,1.2,2,No Major Arteries,Normal Blood Flow,Yes
+61,Female,Typical Angina,130,330,No,0,169,No pain,0,2,No Major Arteries,Normal Blood Flow,No
+57,Male,Typical Angina,130,131,No,1,115,Pain,1.2,1,One Major Arteries,Abnormal Blood Flow,No
+54,Male,Typical Angina,110,206,No,0,108,Pain,0,1,One Major Arteries,Normal Blood Flow,No
+42,Male,Non-Anginal Pain,120,240,Yes,1,194,No pain,0.8,0,No Major Arteries,Abnormal Blood Flow,Yes
+54,Male,Typical Angina,124,266,No,0,109,Pain,2.2,1,One Major Arteries,Abnormal Blood Flow,No
+60,Male,Typical Angina,130,206,No,0,132,Pain,2.4,1,Two Major Arteries,Abnormal Blood Flow,No
+65,Male,Typical Angina,135,254,No,0,127,No pain,2.8,1,One Major Arteries,Abnormal Blood Flow,No
+40,Male,Typical Angina,152,223,No,1,181,No pain,0,2,No Major Arteries,Abnormal Blood Flow,No
+51,Female,Non-Anginal Pain,140,308,No,0,142,No pain,1.5,2,One Major Arteries,Normal Blood Flow,Yes
+38,Male,Asymptomatic,120,231,No,1,182,Pain,3.8,1,No Major Arteries,Abnormal Blood Flow,No
+42,Male,Non-Anginal Pain,130,180,No,1,150,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+56,Male,Atypical Angina,120,240,No,1,169,No pain,0,0,No Major Arteries,Normal Blood Flow,Yes
+43,Male,Non-Anginal Pain,130,315,No,1,162,No pain,1.9,2,One Major Arteries,Normal Blood Flow,Yes
+64,Male,Non-Anginal Pain,140,335,No,1,158,No pain,0,2,No Major Arteries,Normal Blood Flow,No
+53,Male,Typical Angina,142,226,No,0,111,Pain,0,2,No Major Arteries,Abnormal Blood Flow,Yes
+49,Female,Atypical Angina,134,271,No,1,162,No pain,0,1,No Major Arteries,Normal Blood Flow,Yes
+57,Female,Typical Angina,140,241,No,1,123,Pain,0.2,1,No Major Arteries,Abnormal Blood Flow,No
+52,Female,Non-Anginal Pain,136,196,No,0,169,No pain,0.1,1,No Major Arteries,Normal Blood Flow,Yes
+69,Female,Asymptomatic,140,239,No,1,151,No pain,1.8,2,Two Major Arteries,Normal Blood Flow,Yes
+65,Male,Typical Angina,120,177,No,1,140,No pain,0.4,2,No Major Arteries,Abnormal Blood Flow,Yes
+66,Female,Typical Angina,178,228,Yes,1,165,Pain,1,1,Two Major Arteries,Abnormal Blood Flow,No
+56,Male,Asymptomatic,120,193,No,0,162,No pain,1.9,1,No Major Arteries,Abnormal Blood Flow,Yes
+67,Female,Non-Anginal Pain,152,277,No,1,172,No pain,0,2,One Major Arteries,Normal Blood Flow,Yes
+54,Female,Non-Anginal Pain,160,201,No,1,163,No pain,0,2,One Major Arteries,Normal Blood Flow,Yes
+70,Male,Typical Angina,145,174,No,1,125,Pain,2.6,0,No Major Arteries,Abnormal Blood Flow,No
+57,Male,Typical Angina,132,207,No,1,168,Pain,0,2,No Major Arteries,Abnormal Blood Flow,Yes
+67,Male,Typical Angina,160,286,No,0,108,Pain,1.5,1,Three Major Arteries,Normal Blood Flow,No
+62,Female,Non-Anginal Pain,130,263,No,1,97,No pain,1.2,1,One Major Arteries,Abnormal Blood Flow,No
+54,Female,Non-Anginal Pain,135,304,Yes,1,170,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+45,Female,Typical Angina,138,236,No,0,152,Pain,0.2,1,No Major Arteries,Normal Blood Flow,Yes
+53,Female,Typical Angina,130,264,No,0,143,No pain,0.4,1,No Major Arteries,Normal Blood Flow,Yes
+62,Male,Non-Anginal Pain,130,231,No,1,146,No pain,1.8,1,Three Major Arteries,Abnormal Blood Flow,Yes
+49,Female,Typical Angina,130,269,No,1,163,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+50,Male,Non-Anginal Pain,140,233,No,1,163,No pain,0.6,1,One Major Arteries,Abnormal Blood Flow,No
+65,Female,Non-Anginal Pain,140,417,Yes,0,157,No pain,0.8,2,One Major Arteries,Normal Blood Flow,Yes
+69,Female,Asymptomatic,140,239,No,1,151,No pain,1.8,2,Two Major Arteries,Normal Blood Flow,Yes
+52,Female,Non-Anginal Pain,136,196,No,0,169,No pain,0.1,1,No Major Arteries,Normal Blood Flow,Yes
+58,Female,Typical Angina,100,248,No,0,122,No pain,1,1,No Major Arteries,Normal Blood Flow,Yes
+52,Male,Typical Angina,108,233,Yes,1,147,No pain,0.1,2,Three Major Arteries,Abnormal Blood Flow,Yes
+57,Female,Typical Angina,140,241,No,1,123,Pain,0.2,1,No Major Arteries,Abnormal Blood Flow,No
+44,Female,Non-Anginal Pain,108,141,No,1,175,No pain,0.6,1,No Major Arteries,Normal Blood Flow,Yes
+76,Female,Non-Anginal Pain,140,197,No,2,116,No pain,1.1,1,No Major Arteries,Normal Blood Flow,Yes
+58,Male,Typical Angina,128,259,No,0,130,Pain,3,1,Two Major Arteries,Abnormal Blood Flow,No
+60,Female,Non-Anginal Pain,120,178,Yes,1,96,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+53,Male,Typical Angina,140,203,Yes,0,155,Pain,3.1,0,No Major Arteries,Abnormal Blood Flow,No
+52,Male,Atypical Angina,120,325,No,1,172,No pain,0.2,2,No Major Arteries,Normal Blood Flow,Yes
+38,Male,Non-Anginal Pain,138,175,No,1,173,No pain,0,2,Four Major Arteries or More,Normal Blood Flow,Yes
+52,Male,Non-Anginal Pain,172,199,Yes,1,162,No pain,0.5,2,No Major Arteries,Abnormal Blood Flow,Yes
+52,Male,Asymptomatic,118,186,No,0,190,No pain,0,1,No Major Arteries,Fixed Defect,Yes
+51,Male,Non-Anginal Pain,125,245,Yes,0,166,No pain,2.4,1,No Major Arteries,Normal Blood Flow,Yes
+43,Male,Typical Angina,110,211,No,1,161,No pain,0,2,No Major Arteries,Abnormal Blood Flow,Yes
+39,Male,Typical Angina,118,219,No,1,140,No pain,1.2,1,No Major Arteries,Abnormal Blood Flow,No
+63,Female,Typical Angina,108,269,No,1,169,Pain,1.8,1,Two Major Arteries,Normal Blood Flow,No
+52,Male,Atypical Angina,128,205,Yes,1,184,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+44,Male,Typical Angina,110,197,No,0,177,No pain,0,2,One Major Arteries,Normal Blood Flow,No
+45,Male,Typical Angina,142,309,No,0,147,Pain,0,1,Three Major Arteries,Abnormal Blood Flow,No
+57,Male,Typical Angina,140,192,No,1,148,No pain,0.4,1,No Major Arteries,Fixed Defect,Yes
+39,Male,Typical Angina,118,219,No,1,140,No pain,1.2,1,No Major Arteries,Abnormal Blood Flow,No
+67,Female,Typical Angina,106,223,No,1,142,No pain,0.3,2,Two Major Arteries,Normal Blood Flow,Yes
+64,Male,Typical Angina,128,263,No,1,105,Pain,0.2,1,One Major Arteries,Abnormal Blood Flow,Yes
+59,Male,Typical Angina,135,234,No,1,161,No pain,0.5,1,No Major Arteries,Abnormal Blood Flow,Yes
+62,Male,Non-Anginal Pain,130,231,No,1,146,No pain,1.8,1,Three Major Arteries,Abnormal Blood Flow,Yes
+55,Female,Typical Angina,180,327,No,2,117,Pain,3.4,1,No Major Arteries,Normal Blood Flow,No
+57,Male,Atypical Angina,154,232,No,0,164,No pain,0,2,One Major Arteries,Normal Blood Flow,No
+60,Male,Typical Angina,140,293,No,0,170,No pain,1.2,1,Two Major Arteries,Abnormal Blood Flow,No
+71,Female,Atypical Angina,160,302,No,1,162,No pain,0.4,2,Two Major Arteries,Normal Blood Flow,Yes
+56,Male,Atypical Angina,120,236,No,1,178,No pain,0.8,2,No Major Arteries,Normal Blood Flow,Yes
+60,Male,Typical Angina,117,230,Yes,1,160,Pain,1.4,2,Two Major Arteries,Abnormal Blood Flow,No
+50,Female,Typical Angina,110,254,No,0,159,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+43,Male,Typical Angina,132,247,Yes,0,143,Pain,0.1,1,Four Major Arteries or More,Abnormal Blood Flow,No
+59,Male,Typical Angina,110,239,No,0,142,Pain,1.2,1,One Major Arteries,Abnormal Blood Flow,No
+44,Male,Atypical Angina,120,263,No,1,173,No pain,0,2,No Major Arteries,Abnormal Blood Flow,Yes
+56,Female,Typical Angina,134,409,No,0,150,Pain,1.9,1,Two Major Arteries,Abnormal Blood Flow,No
+54,Male,Typical Angina,120,188,No,1,113,No pain,1.4,1,One Major Arteries,Abnormal Blood Flow,No
+42,Male,Typical Angina,136,315,No,1,125,Pain,1.8,1,No Major Arteries,Fixed Defect,No
+67,Male,Typical Angina,125,254,Yes,1,163,No pain,0.2,1,Two Major Arteries,Abnormal Blood Flow,No
+64,Male,Typical Angina,145,212,No,0,132,No pain,2,1,Two Major Arteries,Fixed Defect,No
+42,Male,Typical Angina,140,226,No,1,178,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+66,Male,Typical Angina,112,212,No,0,132,Pain,0.1,2,One Major Arteries,Normal Blood Flow,No
+52,Male,Typical Angina,108,233,Yes,1,147,No pain,0.1,2,Three Major Arteries,Abnormal Blood Flow,Yes
+51,Female,Non-Anginal Pain,140,308,No,0,142,No pain,1.5,2,One Major Arteries,Normal Blood Flow,Yes
+55,Female,Typical Angina,128,205,No,2,130,Pain,2,1,One Major Arteries,Abnormal Blood Flow,No
+58,Male,Non-Anginal Pain,140,211,Yes,0,165,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+56,Male,Asymptomatic,120,193,No,0,162,No pain,1.9,1,No Major Arteries,Abnormal Blood Flow,Yes
+42,Male,Atypical Angina,120,295,No,1,162,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+40,Male,Typical Angina,152,223,No,1,181,No pain,0,2,No Major Arteries,Abnormal Blood Flow,No
+51,Male,Typical Angina,140,299,No,1,173,Pain,1.6,2,No Major Arteries,Abnormal Blood Flow,No
+45,Male,Atypical Angina,128,308,No,0,170,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+48,Male,Atypical Angina,110,229,No,1,168,No pain,1,0,No Major Arteries,Abnormal Blood Flow,No
+58,Male,Typical Angina,114,318,No,2,140,No pain,4.4,0,Three Major Arteries,Fixed Defect,No
+44,Female,Non-Anginal Pain,108,141,No,1,175,No pain,0.6,1,No Major Arteries,Normal Blood Flow,Yes
+58,Male,Typical Angina,128,216,No,0,131,Pain,2.2,1,Three Major Arteries,Abnormal Blood Flow,No
+65,Male,Asymptomatic,138,282,Yes,0,174,No pain,1.4,1,One Major Arteries,Normal Blood Flow,No
+53,Male,Typical Angina,123,282,No,1,95,Pain,2,1,Two Major Arteries,Abnormal Blood Flow,No
+41,Male,Typical Angina,110,172,No,0,158,No pain,0,2,No Major Arteries,Abnormal Blood Flow,No
+47,Male,Typical Angina,112,204,No,1,143,No pain,0.1,2,No Major Arteries,Normal Blood Flow,Yes
+59,Male,Atypical Angina,140,221,No,1,164,Pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+60,Male,Typical Angina,125,258,No,0,141,Pain,2.8,1,One Major Arteries,Abnormal Blood Flow,No
+47,Male,Typical Angina,110,275,No,0,118,Pain,1,1,One Major Arteries,Normal Blood Flow,No
+50,Female,Typical Angina,110,254,No,0,159,No pain,0,2,No Major Arteries,Normal Blood Flow,Yes
+54,Male,Typical Angina,120,188,No,1,113,No pain,1.4,1,One Major Arteries,Abnormal Blood Flow,No

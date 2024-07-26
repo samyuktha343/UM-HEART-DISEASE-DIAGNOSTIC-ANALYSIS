@@ -1,0 +1,9 @@
+sex,cp,BloodPressureLevel,CholestralLevel,PresenceOfHeartDisease
+Male,"Typical Angina",165,335,121
+Female,"Typical Angina",200,407,66
+Male,"Non-Anginal Pain",150,335,79
+Female,"Non-Anginal Pain",160,340,48
+Female,"Atypical Angina",140,319,28
+Male,"Atypical Angina",192,309,79
+Female,Asymptomatic,150,283,3
+Male,Asymptomatic,160,273,10
